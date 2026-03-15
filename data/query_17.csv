@@ -1,0 +1,1904 @@
+OrderID,CompanyName,FirstName,LastName
+11240,Alfreds Futterkiste,Andrew,Fuller
+12302,Alfreds Futterkiste,Janet,Leverling
+12409,Alfreds Futterkiste,Laura,Callahan
+12748,Alfreds Futterkiste,Anne,Dodsworth
+13223,Alfreds Futterkiste,Michael,Suyama
+14302,Alfreds Futterkiste,Anne,Dodsworth
+14486,Alfreds Futterkiste,Margaret,Peacock
+14647,Alfreds Futterkiste,Laura,Callahan
+14746,Alfreds Futterkiste,Steven,Buchanan
+15900,Alfreds Futterkiste,Andrew,Fuller
+18235,Alfreds Futterkiste,Laura,Callahan
+19146,Alfreds Futterkiste,Nancy,Davolio
+19173,Alfreds Futterkiste,Nancy,Davolio
+19804,Alfreds Futterkiste,Anne,Dodsworth
+19958,Alfreds Futterkiste,Margaret,Peacock
+20318,Alfreds Futterkiste,Michael,Suyama
+22080,Alfreds Futterkiste,Michael,Suyama
+22196,Alfreds Futterkiste,Margaret,Peacock
+22746,Alfreds Futterkiste,Nancy,Davolio
+23380,Alfreds Futterkiste,Robert,King
+24772,Alfreds Futterkiste,Janet,Leverling
+25156,Alfreds Futterkiste,Robert,King
+25893,Alfreds Futterkiste,Laura,Callahan
+26376,Alfreds Futterkiste,Janet,Leverling
+11955,Ana Trujillo Emparedados y helados,Janet,Leverling
+11997,Ana Trujillo Emparedados y helados,Anne,Dodsworth
+12306,Ana Trujillo Emparedados y helados,Steven,Buchanan
+12875,Ana Trujillo Emparedados y helados,Nancy,Davolio
+12948,Ana Trujillo Emparedados y helados,Nancy,Davolio
+12997,Ana Trujillo Emparedados y helados,Laura,Callahan
+14135,Ana Trujillo Emparedados y helados,Robert,King
+14983,Ana Trujillo Emparedados y helados,Janet,Leverling
+15204,Ana Trujillo Emparedados y helados,Andrew,Fuller
+15513,Ana Trujillo Emparedados y helados,Andrew,Fuller
+16184,Ana Trujillo Emparedados y helados,Laura,Callahan
+16758,Ana Trujillo Emparedados y helados,Laura,Callahan
+17141,Ana Trujillo Emparedados y helados,Robert,King
+17634,Ana Trujillo Emparedados y helados,Michael,Suyama
+17810,Ana Trujillo Emparedados y helados,Janet,Leverling
+19827,Ana Trujillo Emparedados y helados,Michael,Suyama
+20061,Ana Trujillo Emparedados y helados,Laura,Callahan
+20396,Ana Trujillo Emparedados y helados,Robert,King
+20698,Ana Trujillo Emparedados y helados,Margaret,Peacock
+21061,Ana Trujillo Emparedados y helados,Steven,Buchanan
+21327,Ana Trujillo Emparedados y helados,Nancy,Davolio
+21597,Ana Trujillo Emparedados y helados,Michael,Suyama
+22127,Ana Trujillo Emparedados y helados,Janet,Leverling
+22276,Ana Trujillo Emparedados y helados,Margaret,Peacock
+23642,Ana Trujillo Emparedados y helados,Laura,Callahan
+24300,Ana Trujillo Emparedados y helados,Andrew,Fuller
+25052,Ana Trujillo Emparedados y helados,Nancy,Davolio
+25064,Ana Trujillo Emparedados y helados,Anne,Dodsworth
+26389,Ana Trujillo Emparedados y helados,Robert,King
+12707,Antonio Moreno Taquería,Margaret,Peacock
+13197,Antonio Moreno Taquería,Robert,King
+13402,Antonio Moreno Taquería,Janet,Leverling
+14046,Antonio Moreno Taquería,Nancy,Davolio
+14897,Antonio Moreno Taquería,Anne,Dodsworth
+14960,Antonio Moreno Taquería,Nancy,Davolio
+15915,Antonio Moreno Taquería,Nancy,Davolio
+16487,Antonio Moreno Taquería,Margaret,Peacock
+17288,Antonio Moreno Taquería,Janet,Leverling
+17316,Antonio Moreno Taquería,Nancy,Davolio
+17541,Antonio Moreno Taquería,Robert,King
+18411,Antonio Moreno Taquería,Nancy,Davolio
+18561,Antonio Moreno Taquería,Michael,Suyama
+18813,Antonio Moreno Taquería,Steven,Buchanan
+19249,Antonio Moreno Taquería,Anne,Dodsworth
+19375,Antonio Moreno Taquería,Margaret,Peacock
+19486,Antonio Moreno Taquería,Michael,Suyama
+22570,Antonio Moreno Taquería,Margaret,Peacock
+23077,Antonio Moreno Taquería,Anne,Dodsworth
+23554,Antonio Moreno Taquería,Margaret,Peacock
+24377,Antonio Moreno Taquería,Anne,Dodsworth
+24447,Antonio Moreno Taquería,Nancy,Davolio
+25230,Antonio Moreno Taquería,Laura,Callahan
+11472,Around the Horn,Robert,King
+14060,Around the Horn,Margaret,Peacock
+14677,Around the Horn,Anne,Dodsworth
+17074,Around the Horn,Robert,King
+17334,Around the Horn,Robert,King
+18189,Around the Horn,Nancy,Davolio
+18380,Around the Horn,Margaret,Peacock
+20582,Around the Horn,Steven,Buchanan
+20934,Around the Horn,Michael,Suyama
+21163,Around the Horn,Robert,King
+23646,Around the Horn,Robert,King
+25368,Around the Horn,Janet,Leverling
+13210,B's Beverages,Nancy,Davolio
+14604,B's Beverages,Andrew,Fuller
+14928,B's Beverages,Anne,Dodsworth
+16497,B's Beverages,Robert,King
+18118,B's Beverages,Steven,Buchanan
+19007,B's Beverages,Anne,Dodsworth
+21592,B's Beverages,Laura,Callahan
+23158,B's Beverages,Laura,Callahan
+23333,B's Beverages,Michael,Suyama
+24117,B's Beverages,Nancy,Davolio
+24654,B's Beverages,Michael,Suyama
+25778,B's Beverages,Laura,Callahan
+26171,B's Beverages,Margaret,Peacock
+26295,B's Beverages,Anne,Dodsworth
+10924,Berglunds snabbköp,Janet,Leverling
+11106,Berglunds snabbköp,Janet,Leverling
+11426,Berglunds snabbköp,Nancy,Davolio
+12233,Berglunds snabbköp,Steven,Buchanan
+12425,Berglunds snabbköp,Steven,Buchanan
+13988,Berglunds snabbköp,Margaret,Peacock
+14276,Berglunds snabbköp,Margaret,Peacock
+20393,Berglunds snabbköp,Margaret,Peacock
+21079,Berglunds snabbköp,Michael,Suyama
+21258,Berglunds snabbköp,Margaret,Peacock
+21608,Berglunds snabbköp,Janet,Leverling
+22378,Berglunds snabbköp,Anne,Dodsworth
+22708,Berglunds snabbköp,Janet,Leverling
+23391,Berglunds snabbköp,Michael,Suyama
+24058,Berglunds snabbköp,Janet,Leverling
+24290,Berglunds snabbköp,Michael,Suyama
+24409,Berglunds snabbköp,Laura,Callahan
+25844,Berglunds snabbköp,Margaret,Peacock
+11114,Blauer See Delikatessen,Andrew,Fuller
+11772,Blauer See Delikatessen,Andrew,Fuller
+12345,Blauer See Delikatessen,Michael,Suyama
+13031,Blauer See Delikatessen,Robert,King
+13937,Blauer See Delikatessen,Anne,Dodsworth
+14807,Blauer See Delikatessen,Anne,Dodsworth
+16262,Blauer See Delikatessen,Janet,Leverling
+16985,Blauer See Delikatessen,Nancy,Davolio
+17008,Blauer See Delikatessen,Robert,King
+17201,Blauer See Delikatessen,Robert,King
+19293,Blauer See Delikatessen,Michael,Suyama
+19528,Blauer See Delikatessen,Laura,Callahan
+20537,Blauer See Delikatessen,Janet,Leverling
+20573,Blauer See Delikatessen,Steven,Buchanan
+20598,Blauer See Delikatessen,Michael,Suyama
+22070,Blauer See Delikatessen,Steven,Buchanan
+22220,Blauer See Delikatessen,Anne,Dodsworth
+22939,Blauer See Delikatessen,Michael,Suyama
+23956,Blauer See Delikatessen,Margaret,Peacock
+24689,Blauer See Delikatessen,Nancy,Davolio
+24750,Blauer See Delikatessen,Robert,King
+25765,Blauer See Delikatessen,Laura,Callahan
+25917,Blauer See Delikatessen,Andrew,Fuller
+26130,Blauer See Delikatessen,Janet,Leverling
+12607,Blondesddsl père et fils,Michael,Suyama
+13550,Blondesddsl père et fils,Steven,Buchanan
+13984,Blondesddsl père et fils,Anne,Dodsworth
+15180,Blondesddsl père et fils,Janet,Leverling
+16534,Blondesddsl père et fils,Andrew,Fuller
+16777,Blondesddsl père et fils,Margaret,Peacock
+17116,Blondesddsl père et fils,Laura,Callahan
+18027,Blondesddsl père et fils,Nancy,Davolio
+18198,Blondesddsl père et fils,Laura,Callahan
+19334,Blondesddsl père et fils,Margaret,Peacock
+19401,Blondesddsl père et fils,Margaret,Peacock
+19859,Blondesddsl père et fils,Michael,Suyama
+20282,Blondesddsl père et fils,Anne,Dodsworth
+20354,Blondesddsl père et fils,Laura,Callahan
+22916,Blondesddsl père et fils,Margaret,Peacock
+23581,Blondesddsl père et fils,Nancy,Davolio
+24928,Blondesddsl père et fils,Anne,Dodsworth
+24930,Blondesddsl père et fils,Steven,Buchanan
+25387,Blondesddsl père et fils,Michael,Suyama
+25644,Blondesddsl père et fils,Andrew,Fuller
+25888,Blondesddsl père et fils,Anne,Dodsworth
+10827,Bon app',Nancy,Davolio
+11263,Bon app',Janet,Leverling
+11309,Bon app',Andrew,Fuller
+11496,Bon app',Janet,Leverling
+12130,Bon app',Anne,Dodsworth
+12555,Bon app',Anne,Dodsworth
+12698,Bon app',Michael,Suyama
+13883,Bon app',Michael,Suyama
+14985,Bon app',Nancy,Davolio
+15802,Bon app',Steven,Buchanan
+15871,Bon app',Janet,Leverling
+17835,Bon app',Robert,King
+17860,Bon app',Robert,King
+19123,Bon app',Janet,Leverling
+21449,Bon app',Steven,Buchanan
+21914,Bon app',Janet,Leverling
+23336,Bon app',Steven,Buchanan
+25706,Bon app',Nancy,Davolio
+26517,Bon app',Robert,King
+11310,Bottom-Dollar Markets,Laura,Callahan
+11679,Bottom-Dollar Markets,Michael,Suyama
+11765,Bottom-Dollar Markets,Janet,Leverling
+12211,Bottom-Dollar Markets,Michael,Suyama
+16931,Bottom-Dollar Markets,Nancy,Davolio
+18252,Bottom-Dollar Markets,Anne,Dodsworth
+18359,Bottom-Dollar Markets,Michael,Suyama
+18372,Bottom-Dollar Markets,Nancy,Davolio
+20052,Bottom-Dollar Markets,Janet,Leverling
+20521,Bottom-Dollar Markets,Nancy,Davolio
+20773,Bottom-Dollar Markets,Steven,Buchanan
+23344,Bottom-Dollar Markets,Anne,Dodsworth
+23605,Bottom-Dollar Markets,Janet,Leverling
+25042,Bottom-Dollar Markets,Janet,Leverling
+25124,Bottom-Dollar Markets,Laura,Callahan
+10970,Bólido Comidas preparadas,Anne,Dodsworth
+11540,Bólido Comidas preparadas,Michael,Suyama
+12102,Bólido Comidas preparadas,Andrew,Fuller
+12892,Bólido Comidas preparadas,Janet,Leverling
+13262,Bólido Comidas preparadas,Andrew,Fuller
+14167,Bólido Comidas preparadas,Robert,King
+14274,Bólido Comidas preparadas,Nancy,Davolio
+14806,Bólido Comidas preparadas,Laura,Callahan
+15499,Bólido Comidas preparadas,Nancy,Davolio
+16124,Bólido Comidas preparadas,Robert,King
+16419,Bólido Comidas preparadas,Robert,King
+16577,Bólido Comidas preparadas,Michael,Suyama
+16637,Bólido Comidas preparadas,Nancy,Davolio
+18264,Bólido Comidas preparadas,Andrew,Fuller
+18714,Bólido Comidas preparadas,Anne,Dodsworth
+18729,Bólido Comidas preparadas,Anne,Dodsworth
+19745,Bólido Comidas preparadas,Anne,Dodsworth
+20407,Bólido Comidas preparadas,Michael,Suyama
+20581,Bólido Comidas preparadas,Michael,Suyama
+20618,Bólido Comidas preparadas,Nancy,Davolio
+21097,Bólido Comidas preparadas,Anne,Dodsworth
+21181,Bólido Comidas preparadas,Laura,Callahan
+21348,Bólido Comidas preparadas,Janet,Leverling
+23229,Bólido Comidas preparadas,Nancy,Davolio
+23685,Bólido Comidas preparadas,Janet,Leverling
+24435,Bólido Comidas preparadas,Nancy,Davolio
+25653,Bólido Comidas preparadas,Michael,Suyama
+25727,Bólido Comidas preparadas,Margaret,Peacock
+11228,Cactus Comidas para llevar,Robert,King
+11273,Cactus Comidas para llevar,Janet,Leverling
+12693,Cactus Comidas para llevar,Andrew,Fuller
+12922,Cactus Comidas para llevar,Robert,King
+14033,Cactus Comidas para llevar,Robert,King
+14482,Cactus Comidas para llevar,Robert,King
+14885,Cactus Comidas para llevar,Robert,King
+15498,Cactus Comidas para llevar,Andrew,Fuller
+15553,Cactus Comidas para llevar,Andrew,Fuller
+15715,Cactus Comidas para llevar,Nancy,Davolio
+15839,Cactus Comidas para llevar,Margaret,Peacock
+16390,Cactus Comidas para llevar,Margaret,Peacock
+17280,Cactus Comidas para llevar,Andrew,Fuller
+17394,Cactus Comidas para llevar,Laura,Callahan
+22000,Cactus Comidas para llevar,Nancy,Davolio
+22696,Cactus Comidas para llevar,Steven,Buchanan
+23275,Cactus Comidas para llevar,Robert,King
+24192,Cactus Comidas para llevar,Robert,King
+25203,Cactus Comidas para llevar,Nancy,Davolio
+11193,Centro comercial Moctezuma,Nancy,Davolio
+11729,Centro comercial Moctezuma,Steven,Buchanan
+12261,Centro comercial Moctezuma,Janet,Leverling
+13366,Centro comercial Moctezuma,Anne,Dodsworth
+14264,Centro comercial Moctezuma,Margaret,Peacock
+14319,Centro comercial Moctezuma,Steven,Buchanan
+14583,Centro comercial Moctezuma,Nancy,Davolio
+15008,Centro comercial Moctezuma,Anne,Dodsworth
+15016,Centro comercial Moctezuma,Laura,Callahan
+15506,Centro comercial Moctezuma,Anne,Dodsworth
+16429,Centro comercial Moctezuma,Anne,Dodsworth
+16563,Centro comercial Moctezuma,Margaret,Peacock
+16964,Centro comercial Moctezuma,Laura,Callahan
+17473,Centro comercial Moctezuma,Margaret,Peacock
+18768,Centro comercial Moctezuma,Nancy,Davolio
+19078,Centro comercial Moctezuma,Margaret,Peacock
+19506,Centro comercial Moctezuma,Nancy,Davolio
+19907,Centro comercial Moctezuma,Michael,Suyama
+20626,Centro comercial Moctezuma,Nancy,Davolio
+20738,Centro comercial Moctezuma,Laura,Callahan
+20954,Centro comercial Moctezuma,Laura,Callahan
+21049,Centro comercial Moctezuma,Robert,King
+21422,Centro comercial Moctezuma,Margaret,Peacock
+22616,Centro comercial Moctezuma,Margaret,Peacock
+22830,Centro comercial Moctezuma,Margaret,Peacock
+23236,Centro comercial Moctezuma,Robert,King
+23389,Centro comercial Moctezuma,Nancy,Davolio
+23635,Centro comercial Moctezuma,Steven,Buchanan
+24210,Centro comercial Moctezuma,Janet,Leverling
+25138,Centro comercial Moctezuma,Margaret,Peacock
+25545,Centro comercial Moctezuma,Janet,Leverling
+25946,Centro comercial Moctezuma,Robert,King
+26077,Centro comercial Moctezuma,Margaret,Peacock
+26395,Centro comercial Moctezuma,Anne,Dodsworth
+11124,Chop-suey Chinese,Nancy,Davolio
+11369,Chop-suey Chinese,Michael,Suyama
+11742,Chop-suey Chinese,Nancy,Davolio
+13014,Chop-suey Chinese,Janet,Leverling
+13189,Chop-suey Chinese,Andrew,Fuller
+14346,Chop-suey Chinese,Janet,Leverling
+14873,Chop-suey Chinese,Margaret,Peacock
+16289,Chop-suey Chinese,Anne,Dodsworth
+16389,Chop-suey Chinese,Michael,Suyama
+17846,Chop-suey Chinese,Michael,Suyama
+18163,Chop-suey Chinese,Steven,Buchanan
+18716,Chop-suey Chinese,Margaret,Peacock
+20042,Chop-suey Chinese,Nancy,Davolio
+20462,Chop-suey Chinese,Andrew,Fuller
+21007,Chop-suey Chinese,Janet,Leverling
+21427,Chop-suey Chinese,Nancy,Davolio
+21605,Chop-suey Chinese,Steven,Buchanan
+22141,Chop-suey Chinese,Nancy,Davolio
+22244,Chop-suey Chinese,Andrew,Fuller
+24039,Chop-suey Chinese,Steven,Buchanan
+24358,Chop-suey Chinese,Michael,Suyama
+24976,Chop-suey Chinese,Steven,Buchanan
+25837,Chop-suey Chinese,Nancy,Davolio
+12357,Comércio Mineiro,Robert,King
+14188,Comércio Mineiro,Janet,Leverling
+15090,Comércio Mineiro,Janet,Leverling
+16058,Comércio Mineiro,Andrew,Fuller
+16524,Comércio Mineiro,Nancy,Davolio
+16960,Comércio Mineiro,Janet,Leverling
+18133,Comércio Mineiro,Andrew,Fuller
+20109,Comércio Mineiro,Margaret,Peacock
+20499,Comércio Mineiro,Michael,Suyama
+20700,Comércio Mineiro,Anne,Dodsworth
+20865,Comércio Mineiro,Robert,King
+21106,Comércio Mineiro,Margaret,Peacock
+21435,Comércio Mineiro,Andrew,Fuller
+21566,Comércio Mineiro,Andrew,Fuller
+21577,Comércio Mineiro,Andrew,Fuller
+21968,Comércio Mineiro,Margaret,Peacock
+22449,Comércio Mineiro,Janet,Leverling
+22585,Comércio Mineiro,Janet,Leverling
+24126,Comércio Mineiro,Steven,Buchanan
+25195,Comércio Mineiro,Steven,Buchanan
+25373,Comércio Mineiro,Nancy,Davolio
+25448,Comércio Mineiro,Steven,Buchanan
+26294,Comércio Mineiro,Janet,Leverling
+26484,Comércio Mineiro,Steven,Buchanan
+26519,Comércio Mineiro,Janet,Leverling
+12158,Consolidated Holdings,Margaret,Peacock
+14098,Consolidated Holdings,Andrew,Fuller
+14350,Consolidated Holdings,Steven,Buchanan
+14427,Consolidated Holdings,Janet,Leverling
+17414,Consolidated Holdings,Andrew,Fuller
+17897,Consolidated Holdings,Nancy,Davolio
+18470,Consolidated Holdings,Michael,Suyama
+18993,Consolidated Holdings,Janet,Leverling
+19414,Consolidated Holdings,Laura,Callahan
+19549,Consolidated Holdings,Robert,King
+19943,Consolidated Holdings,Steven,Buchanan
+20253,Consolidated Holdings,Janet,Leverling
+20751,Consolidated Holdings,Laura,Callahan
+21373,Consolidated Holdings,Steven,Buchanan
+21587,Consolidated Holdings,Janet,Leverling
+21900,Consolidated Holdings,Michael,Suyama
+22325,Consolidated Holdings,Andrew,Fuller
+22365,Consolidated Holdings,Steven,Buchanan
+23207,Consolidated Holdings,Andrew,Fuller
+11087,Die Wandernde Kuh,Anne,Dodsworth
+11446,Die Wandernde Kuh,Steven,Buchanan
+12368,Die Wandernde Kuh,Laura,Callahan
+12634,Die Wandernde Kuh,Laura,Callahan
+12767,Die Wandernde Kuh,Andrew,Fuller
+12918,Die Wandernde Kuh,Nancy,Davolio
+14389,Die Wandernde Kuh,Andrew,Fuller
+17620,Die Wandernde Kuh,Michael,Suyama
+19915,Die Wandernde Kuh,Steven,Buchanan
+21194,Die Wandernde Kuh,Michael,Suyama
+23057,Die Wandernde Kuh,Andrew,Fuller
+23178,Die Wandernde Kuh,Nancy,Davolio
+24130,Die Wandernde Kuh,Andrew,Fuller
+24492,Die Wandernde Kuh,Margaret,Peacock
+25180,Die Wandernde Kuh,Michael,Suyama
+25401,Die Wandernde Kuh,Anne,Dodsworth
+25417,Die Wandernde Kuh,Janet,Leverling
+26209,Die Wandernde Kuh,Laura,Callahan
+11804,Drachenblut Delikatessen,Margaret,Peacock
+15194,Drachenblut Delikatessen,Janet,Leverling
+15224,Drachenblut Delikatessen,Steven,Buchanan
+15657,Drachenblut Delikatessen,Andrew,Fuller
+16067,Drachenblut Delikatessen,Laura,Callahan
+16849,Drachenblut Delikatessen,Michael,Suyama
+17041,Drachenblut Delikatessen,Anne,Dodsworth
+17132,Drachenblut Delikatessen,Michael,Suyama
+18522,Drachenblut Delikatessen,Janet,Leverling
+18820,Drachenblut Delikatessen,Michael,Suyama
+19193,Drachenblut Delikatessen,Anne,Dodsworth
+19687,Drachenblut Delikatessen,Steven,Buchanan
+19998,Drachenblut Delikatessen,Robert,King
+20702,Drachenblut Delikatessen,Steven,Buchanan
+21193,Drachenblut Delikatessen,Robert,King
+21285,Drachenblut Delikatessen,Margaret,Peacock
+22927,Drachenblut Delikatessen,Anne,Dodsworth
+24568,Drachenblut Delikatessen,Robert,King
+12185,Du monde entier,Robert,King
+12990,Du monde entier,Janet,Leverling
+13108,Du monde entier,Margaret,Peacock
+13141,Du monde entier,Janet,Leverling
+13382,Du monde entier,Anne,Dodsworth
+13415,Du monde entier,Nancy,Davolio
+15125,Du monde entier,Michael,Suyama
+15190,Du monde entier,Laura,Callahan
+16874,Du monde entier,Nancy,Davolio
+18056,Du monde entier,Michael,Suyama
+18532,Du monde entier,Robert,King
+18538,Du monde entier,Robert,King
+19454,Du monde entier,Steven,Buchanan
+21500,Du monde entier,Margaret,Peacock
+21778,Du monde entier,Andrew,Fuller
+21944,Du monde entier,Michael,Suyama
+22461,Du monde entier,Michael,Suyama
+22753,Du monde entier,Michael,Suyama
+24513,Du monde entier,Robert,King
+11311,Eastern Connection,Nancy,Davolio
+13699,Eastern Connection,Anne,Dodsworth
+15736,Eastern Connection,Janet,Leverling
+15932,Eastern Connection,Nancy,Davolio
+16113,Eastern Connection,Andrew,Fuller
+16383,Eastern Connection,Andrew,Fuller
+18731,Eastern Connection,Nancy,Davolio
+19127,Eastern Connection,Laura,Callahan
+20377,Eastern Connection,Janet,Leverling
+20448,Eastern Connection,Robert,King
+21607,Eastern Connection,Margaret,Peacock
+22170,Eastern Connection,Andrew,Fuller
+22510,Eastern Connection,Laura,Callahan
+22760,Eastern Connection,Steven,Buchanan
+24246,Eastern Connection,Laura,Callahan
+25115,Eastern Connection,Margaret,Peacock
+26170,Eastern Connection,Janet,Leverling
+11777,Ernst Handel,Anne,Dodsworth
+12007,Ernst Handel,Nancy,Davolio
+13500,Ernst Handel,Andrew,Fuller
+14059,Ernst Handel,Janet,Leverling
+14682,Ernst Handel,Andrew,Fuller
+17792,Ernst Handel,Janet,Leverling
+18042,Ernst Handel,Janet,Leverling
+18166,Ernst Handel,Margaret,Peacock
+18413,Ernst Handel,Nancy,Davolio
+18613,Ernst Handel,Michael,Suyama
+19343,Ernst Handel,Janet,Leverling
+19543,Ernst Handel,Nancy,Davolio
+20497,Ernst Handel,Anne,Dodsworth
+23732,Ernst Handel,Andrew,Fuller
+24885,Ernst Handel,Robert,King
+24911,Ernst Handel,Andrew,Fuller
+25522,Ernst Handel,Michael,Suyama
+11436,FISSA Fabrica Inter. Salchichas S.A.,Nancy,Davolio
+11795,FISSA Fabrica Inter. Salchichas S.A.,Anne,Dodsworth
+13432,FISSA Fabrica Inter. Salchichas S.A.,Anne,Dodsworth
+14375,FISSA Fabrica Inter. Salchichas S.A.,Robert,King
+14548,FISSA Fabrica Inter. Salchichas S.A.,Anne,Dodsworth
+16674,FISSA Fabrica Inter. Salchichas S.A.,Margaret,Peacock
+16717,FISSA Fabrica Inter. Salchichas S.A.,Janet,Leverling
+16817,FISSA Fabrica Inter. Salchichas S.A.,Laura,Callahan
+18025,FISSA Fabrica Inter. Salchichas S.A.,Nancy,Davolio
+18223,FISSA Fabrica Inter. Salchichas S.A.,Laura,Callahan
+18524,FISSA Fabrica Inter. Salchichas S.A.,Steven,Buchanan
+22016,FISSA Fabrica Inter. Salchichas S.A.,Robert,King
+22082,FISSA Fabrica Inter. Salchichas S.A.,Laura,Callahan
+22131,FISSA Fabrica Inter. Salchichas S.A.,Anne,Dodsworth
+22208,FISSA Fabrica Inter. Salchichas S.A.,Nancy,Davolio
+22322,FISSA Fabrica Inter. Salchichas S.A.,Anne,Dodsworth
+22860,FISSA Fabrica Inter. Salchichas S.A.,Nancy,Davolio
+25629,FISSA Fabrica Inter. Salchichas S.A.,Laura,Callahan
+26100,FISSA Fabrica Inter. Salchichas S.A.,Laura,Callahan
+26390,FISSA Fabrica Inter. Salchichas S.A.,Janet,Leverling
+12421,Familia Arquibaldo,Janet,Leverling
+14811,Familia Arquibaldo,Steven,Buchanan
+15461,Familia Arquibaldo,Michael,Suyama
+16458,Familia Arquibaldo,Nancy,Davolio
+16975,Familia Arquibaldo,Anne,Dodsworth
+17173,Familia Arquibaldo,Laura,Callahan
+18161,Familia Arquibaldo,Michael,Suyama
+18414,Familia Arquibaldo,Robert,King
+18863,Familia Arquibaldo,Janet,Leverling
+19636,Familia Arquibaldo,Anne,Dodsworth
+19886,Familia Arquibaldo,Laura,Callahan
+20227,Familia Arquibaldo,Nancy,Davolio
+20376,Familia Arquibaldo,Nancy,Davolio
+21679,Familia Arquibaldo,Steven,Buchanan
+21840,Familia Arquibaldo,Nancy,Davolio
+22520,Familia Arquibaldo,Andrew,Fuller
+23940,Familia Arquibaldo,Michael,Suyama
+24154,Familia Arquibaldo,Andrew,Fuller
+24309,Familia Arquibaldo,Andrew,Fuller
+24587,Familia Arquibaldo,Robert,King
+24680,Familia Arquibaldo,Anne,Dodsworth
+25741,Familia Arquibaldo,Michael,Suyama
+26470,Familia Arquibaldo,Andrew,Fuller
+26471,Familia Arquibaldo,Laura,Callahan
+11421,Folies gourmandes,Robert,King
+11641,Folies gourmandes,Laura,Callahan
+12231,Folies gourmandes,Steven,Buchanan
+12776,Folies gourmandes,Andrew,Fuller
+13040,Folies gourmandes,Anne,Dodsworth
+14515,Folies gourmandes,Nancy,Davolio
+14636,Folies gourmandes,Laura,Callahan
+15684,Folies gourmandes,Robert,King
+16650,Folies gourmandes,Janet,Leverling
+16916,Folies gourmandes,Nancy,Davolio
+17601,Folies gourmandes,Andrew,Fuller
+18126,Folies gourmandes,Laura,Callahan
+18159,Folies gourmandes,Anne,Dodsworth
+18687,Folies gourmandes,Anne,Dodsworth
+20143,Folies gourmandes,Robert,King
+21345,Folies gourmandes,Margaret,Peacock
+21892,Folies gourmandes,Robert,King
+21913,Folies gourmandes,Steven,Buchanan
+23134,Folies gourmandes,Andrew,Fuller
+23258,Folies gourmandes,Robert,King
+23559,Folies gourmandes,Steven,Buchanan
+23790,Folies gourmandes,Andrew,Fuller
+24113,Folies gourmandes,Robert,King
+24244,Folies gourmandes,Michael,Suyama
+25932,Folies gourmandes,Margaret,Peacock
+11635,Folk och fä HB,Robert,King
+14736,Folk och fä HB,Janet,Leverling
+15823,Folk och fä HB,Janet,Leverling
+15879,Folk och fä HB,Anne,Dodsworth
+16541,Folk och fä HB,Andrew,Fuller
+17089,Folk och fä HB,Laura,Callahan
+17881,Folk och fä HB,Anne,Dodsworth
+18693,Folk och fä HB,Robert,King
+19402,Folk och fä HB,Michael,Suyama
+19811,Folk och fä HB,Laura,Callahan
+20333,Folk och fä HB,Laura,Callahan
+20718,Folk och fä HB,Andrew,Fuller
+20858,Folk och fä HB,Laura,Callahan
+21124,Folk och fä HB,Robert,King
+22380,Folk och fä HB,Margaret,Peacock
+23353,Folk och fä HB,Anne,Dodsworth
+23791,Folk och fä HB,Andrew,Fuller
+23980,Folk och fä HB,Anne,Dodsworth
+25001,Folk och fä HB,Margaret,Peacock
+25116,Folk och fä HB,Robert,King
+25151,Folk och fä HB,Nancy,Davolio
+25756,Folk och fä HB,Andrew,Fuller
+26280,Folk och fä HB,Anne,Dodsworth
+11182,France restauration,Janet,Leverling
+11274,France restauration,Michael,Suyama
+11697,France restauration,Laura,Callahan
+11969,France restauration,Andrew,Fuller
+13237,France restauration,Margaret,Peacock
+13551,France restauration,Michael,Suyama
+13562,France restauration,Andrew,Fuller
+14288,France restauration,Michael,Suyama
+15088,France restauration,Nancy,Davolio
+15712,France restauration,Laura,Callahan
+16133,France restauration,Steven,Buchanan
+17442,France restauration,Laura,Callahan
+17631,France restauration,Janet,Leverling
+17767,France restauration,Anne,Dodsworth
+18513,France restauration,Robert,King
+18584,France restauration,Michael,Suyama
+23412,France restauration,Anne,Dodsworth
+23467,France restauration,Margaret,Peacock
+24141,France restauration,Nancy,Davolio
+24374,France restauration,Janet,Leverling
+24449,France restauration,Andrew,Fuller
+24744,France restauration,Andrew,Fuller
+25037,France restauration,Laura,Callahan
+25074,France restauration,Michael,Suyama
+25300,France restauration,Laura,Callahan
+25640,France restauration,Robert,King
+25889,France restauration,Margaret,Peacock
+25901,France restauration,Anne,Dodsworth
+26428,France restauration,Margaret,Peacock
+11746,Franchi S.p.A.,Andrew,Fuller
+12377,Franchi S.p.A.,Margaret,Peacock
+12723,Franchi S.p.A.,Steven,Buchanan
+15416,Franchi S.p.A.,Laura,Callahan
+17864,Franchi S.p.A.,Margaret,Peacock
+18071,Franchi S.p.A.,Robert,King
+18605,Franchi S.p.A.,Laura,Callahan
+20611,Franchi S.p.A.,Margaret,Peacock
+21005,Franchi S.p.A.,Andrew,Fuller
+21213,Franchi S.p.A.,Anne,Dodsworth
+22431,Franchi S.p.A.,Robert,King
+23022,Franchi S.p.A.,Anne,Dodsworth
+24522,Franchi S.p.A.,Robert,King
+25337,Franchi S.p.A.,Margaret,Peacock
+25991,Franchi S.p.A.,Steven,Buchanan
+12152,Frankenversand,Anne,Dodsworth
+12157,Frankenversand,Laura,Callahan
+14794,Frankenversand,Margaret,Peacock
+14880,Frankenversand,Laura,Callahan
+15702,Frankenversand,Nancy,Davolio
+16317,Frankenversand,Laura,Callahan
+16407,Frankenversand,Robert,King
+17098,Frankenversand,Margaret,Peacock
+17399,Frankenversand,Michael,Suyama
+18435,Frankenversand,Laura,Callahan
+18819,Frankenversand,Anne,Dodsworth
+18867,Frankenversand,Nancy,Davolio
+19142,Frankenversand,Anne,Dodsworth
+19279,Frankenversand,Michael,Suyama
+20065,Frankenversand,Janet,Leverling
+20498,Frankenversand,Robert,King
+20988,Frankenversand,Andrew,Fuller
+21261,Frankenversand,Nancy,Davolio
+22848,Frankenversand,Margaret,Peacock
+24560,Frankenversand,Laura,Callahan
+25734,Frankenversand,Laura,Callahan
+12072,Furia Bacalhau e Frutos do Mar,Andrew,Fuller
+14115,Furia Bacalhau e Frutos do Mar,Robert,King
+14141,Furia Bacalhau e Frutos do Mar,Steven,Buchanan
+14210,Furia Bacalhau e Frutos do Mar,Andrew,Fuller
+15033,Furia Bacalhau e Frutos do Mar,Margaret,Peacock
+15191,Furia Bacalhau e Frutos do Mar,Michael,Suyama
+15662,Furia Bacalhau e Frutos do Mar,Andrew,Fuller
+16798,Furia Bacalhau e Frutos do Mar,Nancy,Davolio
+17097,Furia Bacalhau e Frutos do Mar,Margaret,Peacock
+20652,Furia Bacalhau e Frutos do Mar,Janet,Leverling
+21221,Furia Bacalhau e Frutos do Mar,Andrew,Fuller
+21788,Furia Bacalhau e Frutos do Mar,Janet,Leverling
+21873,Furia Bacalhau e Frutos do Mar,Michael,Suyama
+22968,Furia Bacalhau e Frutos do Mar,Laura,Callahan
+23383,Furia Bacalhau e Frutos do Mar,Steven,Buchanan
+23472,Furia Bacalhau e Frutos do Mar,Robert,King
+23891,Furia Bacalhau e Frutos do Mar,Steven,Buchanan
+24263,Furia Bacalhau e Frutos do Mar,Andrew,Fuller
+25905,Furia Bacalhau e Frutos do Mar,Steven,Buchanan
+26316,Furia Bacalhau e Frutos do Mar,Anne,Dodsworth
+11481,GROSELLA-Restaurante,Anne,Dodsworth
+11796,GROSELLA-Restaurante,Robert,King
+12441,GROSELLA-Restaurante,Anne,Dodsworth
+13595,GROSELLA-Restaurante,Margaret,Peacock
+14246,GROSELLA-Restaurante,Nancy,Davolio
+16812,GROSELLA-Restaurante,Margaret,Peacock
+17400,GROSELLA-Restaurante,Margaret,Peacock
+17471,GROSELLA-Restaurante,Michael,Suyama
+19661,GROSELLA-Restaurante,Margaret,Peacock
+21259,GROSELLA-Restaurante,Michael,Suyama
+21479,GROSELLA-Restaurante,Anne,Dodsworth
+23866,GROSELLA-Restaurante,Anne,Dodsworth
+24475,GROSELLA-Restaurante,Robert,King
+24770,GROSELLA-Restaurante,Robert,King
+12844,Galería del gastrónomo,Andrew,Fuller
+14859,Galería del gastrónomo,Steven,Buchanan
+15264,Galería del gastrónomo,Steven,Buchanan
+15592,Galería del gastrónomo,Michael,Suyama
+15876,Galería del gastrónomo,Margaret,Peacock
+16115,Galería del gastrónomo,Robert,King
+16319,Galería del gastrónomo,Robert,King
+16721,Galería del gastrónomo,Nancy,Davolio
+16864,Galería del gastrónomo,Andrew,Fuller
+16994,Galería del gastrónomo,Margaret,Peacock
+17687,Galería del gastrónomo,Laura,Callahan
+17693,Galería del gastrónomo,Michael,Suyama
+18210,Galería del gastrónomo,Michael,Suyama
+20260,Galería del gastrónomo,Janet,Leverling
+20432,Galería del gastrónomo,Anne,Dodsworth
+20676,Galería del gastrónomo,Robert,King
+20958,Galería del gastrónomo,Andrew,Fuller
+21820,Galería del gastrónomo,Andrew,Fuller
+22115,Galería del gastrónomo,Janet,Leverling
+22255,Galería del gastrónomo,Steven,Buchanan
+23522,Galería del gastrónomo,Laura,Callahan
+24078,Galería del gastrónomo,Janet,Leverling
+25957,Galería del gastrónomo,Michael,Suyama
+11415,Godos Cocina Típica,Andrew,Fuller
+12165,Godos Cocina Típica,Janet,Leverling
+12187,Godos Cocina Típica,Nancy,Davolio
+12415,Godos Cocina Típica,Laura,Callahan
+12530,Godos Cocina Típica,Laura,Callahan
+15049,Godos Cocina Típica,Steven,Buchanan
+15510,Godos Cocina Típica,Laura,Callahan
+16018,Godos Cocina Típica,Robert,King
+16146,Godos Cocina Típica,Andrew,Fuller
+19828,Godos Cocina Típica,Robert,King
+20020,Godos Cocina Típica,Anne,Dodsworth
+21405,Godos Cocina Típica,Robert,King
+22342,Godos Cocina Típica,Robert,King
+22817,Godos Cocina Típica,Janet,Leverling
+24648,Godos Cocina Típica,Michael,Suyama
+26149,Godos Cocina Típica,Nancy,Davolio
+11965,Gourmet Lanchonetes,Janet,Leverling
+12670,Gourmet Lanchonetes,Steven,Buchanan
+12789,Gourmet Lanchonetes,Margaret,Peacock
+13557,Gourmet Lanchonetes,Anne,Dodsworth
+13622,Gourmet Lanchonetes,Andrew,Fuller
+13650,Gourmet Lanchonetes,Andrew,Fuller
+14304,Gourmet Lanchonetes,Margaret,Peacock
+15535,Gourmet Lanchonetes,Andrew,Fuller
+15706,Gourmet Lanchonetes,Robert,King
+15752,Gourmet Lanchonetes,Andrew,Fuller
+17193,Gourmet Lanchonetes,Michael,Suyama
+18638,Gourmet Lanchonetes,Steven,Buchanan
+19644,Gourmet Lanchonetes,Michael,Suyama
+20560,Gourmet Lanchonetes,Steven,Buchanan
+20787,Gourmet Lanchonetes,Janet,Leverling
+21527,Gourmet Lanchonetes,Robert,King
+21807,Gourmet Lanchonetes,Janet,Leverling
+21828,Gourmet Lanchonetes,Janet,Leverling
+21886,Gourmet Lanchonetes,Janet,Leverling
+24091,Gourmet Lanchonetes,Nancy,Davolio
+26527,Gourmet Lanchonetes,Margaret,Peacock
+10816,Great Lakes Food Market,Margaret,Peacock
+11935,Great Lakes Food Market,Andrew,Fuller
+12115,Great Lakes Food Market,Robert,King
+12174,Great Lakes Food Market,Michael,Suyama
+12929,Great Lakes Food Market,Janet,Leverling
+12984,Great Lakes Food Market,Michael,Suyama
+13287,Great Lakes Food Market,Margaret,Peacock
+13582,Great Lakes Food Market,Janet,Leverling
+13615,Great Lakes Food Market,Michael,Suyama
+13854,Great Lakes Food Market,Robert,King
+14789,Great Lakes Food Market,Anne,Dodsworth
+15770,Great Lakes Food Market,Janet,Leverling
+16664,Great Lakes Food Market,Margaret,Peacock
+16738,Great Lakes Food Market,Janet,Leverling
+17078,Great Lakes Food Market,Anne,Dodsworth
+17487,Great Lakes Food Market,Steven,Buchanan
+17698,Great Lakes Food Market,Janet,Leverling
+18222,Great Lakes Food Market,Michael,Suyama
+18558,Great Lakes Food Market,Margaret,Peacock
+19587,Great Lakes Food Market,Margaret,Peacock
+23481,Great Lakes Food Market,Margaret,Peacock
+24167,Great Lakes Food Market,Andrew,Fuller
+24182,Great Lakes Food Market,Laura,Callahan
+24376,Great Lakes Food Market,Laura,Callahan
+10960,HILARION-Abastos,Janet,Leverling
+11123,HILARION-Abastos,Anne,Dodsworth
+11152,HILARION-Abastos,Anne,Dodsworth
+13426,HILARION-Abastos,Robert,King
+14218,HILARION-Abastos,Nancy,Davolio
+15106,HILARION-Abastos,Robert,King
+15355,HILARION-Abastos,Margaret,Peacock
+15638,HILARION-Abastos,Nancy,Davolio
+15746,HILARION-Abastos,Robert,King
+17662,HILARION-Abastos,Michael,Suyama
+18070,HILARION-Abastos,Margaret,Peacock
+19298,HILARION-Abastos,Robert,King
+19975,HILARION-Abastos,Anne,Dodsworth
+21692,HILARION-Abastos,Anne,Dodsworth
+22957,HILARION-Abastos,Andrew,Fuller
+23100,HILARION-Abastos,Steven,Buchanan
+23609,HILARION-Abastos,Robert,King
+23644,HILARION-Abastos,Anne,Dodsworth
+24978,HILARION-Abastos,Anne,Dodsworth
+26305,HILARION-Abastos,Anne,Dodsworth
+12643,Hanari Carnes,Michael,Suyama
+12706,Hanari Carnes,Janet,Leverling
+12836,Hanari Carnes,Michael,Suyama
+13508,Hanari Carnes,Anne,Dodsworth
+13742,Hanari Carnes,Michael,Suyama
+13949,Hanari Carnes,Michael,Suyama
+13967,Hanari Carnes,Laura,Callahan
+14613,Hanari Carnes,Andrew,Fuller
+15733,Hanari Carnes,Laura,Callahan
+16662,Hanari Carnes,Janet,Leverling
+16719,Hanari Carnes,Anne,Dodsworth
+16856,Hanari Carnes,Anne,Dodsworth
+17230,Hanari Carnes,Anne,Dodsworth
+17723,Hanari Carnes,Anne,Dodsworth
+18226,Hanari Carnes,Steven,Buchanan
+18384,Hanari Carnes,Steven,Buchanan
+18810,Hanari Carnes,Robert,King
+18897,Hanari Carnes,Anne,Dodsworth
+22416,Hanari Carnes,Andrew,Fuller
+22751,Hanari Carnes,Margaret,Peacock
+24517,Hanari Carnes,Nancy,Davolio
+24601,Hanari Carnes,Janet,Leverling
+25079,Hanari Carnes,Laura,Callahan
+25275,Hanari Carnes,Michael,Suyama
+26393,Hanari Carnes,Steven,Buchanan
+11860,Hungry Coyote Import Store,Anne,Dodsworth
+12766,Hungry Coyote Import Store,Margaret,Peacock
+14737,Hungry Coyote Import Store,Laura,Callahan
+15070,Hungry Coyote Import Store,Robert,King
+15517,Hungry Coyote Import Store,Michael,Suyama
+16957,Hungry Coyote Import Store,Margaret,Peacock
+17143,Hungry Coyote Import Store,Andrew,Fuller
+18661,Hungry Coyote Import Store,Andrew,Fuller
+19611,Hungry Coyote Import Store,Andrew,Fuller
+19967,Hungry Coyote Import Store,Steven,Buchanan
+20165,Hungry Coyote Import Store,Laura,Callahan
+20659,Hungry Coyote Import Store,Andrew,Fuller
+20800,Hungry Coyote Import Store,Michael,Suyama
+20883,Hungry Coyote Import Store,Nancy,Davolio
+21190,Hungry Coyote Import Store,Margaret,Peacock
+21223,Hungry Coyote Import Store,Michael,Suyama
+22061,Hungry Coyote Import Store,Margaret,Peacock
+23729,Hungry Coyote Import Store,Michael,Suyama
+26129,Hungry Coyote Import Store,Laura,Callahan
+26287,Hungry Coyote Import Store,Margaret,Peacock
+12260,Hungry Owl All-Night Grocers,Laura,Callahan
+12611,Hungry Owl All-Night Grocers,Anne,Dodsworth
+13045,Hungry Owl All-Night Grocers,Laura,Callahan
+13658,Hungry Owl All-Night Grocers,Janet,Leverling
+14007,Hungry Owl All-Night Grocers,Steven,Buchanan
+15946,Hungry Owl All-Night Grocers,Laura,Callahan
+16111,Hungry Owl All-Night Grocers,Laura,Callahan
+16547,Hungry Owl All-Night Grocers,Andrew,Fuller
+16943,Hungry Owl All-Night Grocers,Laura,Callahan
+17252,Hungry Owl All-Night Grocers,Steven,Buchanan
+18436,Hungry Owl All-Night Grocers,Nancy,Davolio
+19895,Hungry Owl All-Night Grocers,Margaret,Peacock
+20094,Hungry Owl All-Night Grocers,Margaret,Peacock
+22317,Hungry Owl All-Night Grocers,Anne,Dodsworth
+22553,Hungry Owl All-Night Grocers,Michael,Suyama
+23830,Hungry Owl All-Night Grocers,Michael,Suyama
+24253,Hungry Owl All-Night Grocers,Laura,Callahan
+25984,Hungry Owl All-Night Grocers,Laura,Callahan
+26333,Hungry Owl All-Night Grocers,Steven,Buchanan
+11140,IT,Andrew,Fuller
+11168,IT,Michael,Suyama
+11514,IT,Margaret,Peacock
+11690,IT,Laura,Callahan
+11694,IT,Nancy,Davolio
+11784,IT,Janet,Leverling
+12251,IT,Laura,Callahan
+12829,IT,Janet,Leverling
+13667,IT,Steven,Buchanan
+14056,IT,Anne,Dodsworth
+14670,IT,Janet,Leverling
+15514,IT,Andrew,Fuller
+15602,IT,Robert,King
+15767,IT,Anne,Dodsworth
+16413,IT,Michael,Suyama
+16435,IT,Anne,Dodsworth
+16839,IT,Margaret,Peacock
+17051,IT,Michael,Suyama
+17219,IT,Robert,King
+17375,IT,Robert,King
+17806,IT,Andrew,Fuller
+18670,IT,Janet,Leverling
+19446,IT,Steven,Buchanan
+19713,IT,Steven,Buchanan
+20157,IT,Anne,Dodsworth
+20179,IT,Laura,Callahan
+20446,IT,Janet,Leverling
+20687,IT,Margaret,Peacock
+21052,IT,Anne,Dodsworth
+21316,IT,Steven,Buchanan
+23166,IT,Laura,Callahan
+23439,IT,Margaret,Peacock
+23986,IT,Andrew,Fuller
+24022,IT,Steven,Buchanan
+24891,IT,Nancy,Davolio
+25298,IT,Steven,Buchanan
+25424,IT,Laura,Callahan
+25585,IT,Margaret,Peacock
+25794,IT,Andrew,Fuller
+26362,IT,Robert,King
+13673,Island Trading,Nancy,Davolio
+14108,Island Trading,Margaret,Peacock
+14772,Island Trading,Michael,Suyama
+16421,Island Trading,Laura,Callahan
+17026,Island Trading,Andrew,Fuller
+17069,Island Trading,Janet,Leverling
+17240,Island Trading,Robert,King
+20380,Island Trading,Laura,Callahan
+21399,Island Trading,Andrew,Fuller
+21486,Island Trading,Anne,Dodsworth
+22379,Island Trading,Laura,Callahan
+23499,Island Trading,Steven,Buchanan
+24085,Island Trading,Steven,Buchanan
+24813,Island Trading,Janet,Leverling
+25558,Island Trading,Andrew,Fuller
+25833,Island Trading,Laura,Callahan
+13207,Königlich Essen,Steven,Buchanan
+13567,Königlich Essen,Margaret,Peacock
+14489,Königlich Essen,Steven,Buchanan
+14975,Königlich Essen,Anne,Dodsworth
+14996,Königlich Essen,Michael,Suyama
+15166,Königlich Essen,Margaret,Peacock
+15545,Königlich Essen,Robert,King
+15784,Königlich Essen,Michael,Suyama
+15862,Königlich Essen,Anne,Dodsworth
+17403,Königlich Essen,Robert,King
+18156,Königlich Essen,Michael,Suyama
+18330,Königlich Essen,Margaret,Peacock
+19255,Königlich Essen,Robert,King
+19520,Königlich Essen,Janet,Leverling
+19795,Königlich Essen,Nancy,Davolio
+20390,Königlich Essen,Anne,Dodsworth
+20766,Königlich Essen,Laura,Callahan
+21173,Königlich Essen,Anne,Dodsworth
+21229,Königlich Essen,Nancy,Davolio
+21732,Königlich Essen,Nancy,Davolio
+21988,Königlich Essen,Michael,Suyama
+22341,Königlich Essen,Michael,Suyama
+22757,Königlich Essen,Anne,Dodsworth
+23163,Königlich Essen,Steven,Buchanan
+23908,Königlich Essen,Steven,Buchanan
+24174,Königlich Essen,Robert,King
+11852,LILA-Supermercado,Laura,Callahan
+12001,LILA-Supermercado,Robert,King
+12375,LILA-Supermercado,Margaret,Peacock
+13307,LILA-Supermercado,Robert,King
+13450,LILA-Supermercado,Margaret,Peacock
+13470,LILA-Supermercado,Nancy,Davolio
+14575,LILA-Supermercado,Margaret,Peacock
+16977,LILA-Supermercado,Steven,Buchanan
+17106,LILA-Supermercado,Nancy,Davolio
+17653,LILA-Supermercado,Margaret,Peacock
+18108,LILA-Supermercado,Anne,Dodsworth
+18417,LILA-Supermercado,Robert,King
+18786,LILA-Supermercado,Anne,Dodsworth
+19200,LILA-Supermercado,Nancy,Davolio
+19964,LILA-Supermercado,Andrew,Fuller
+20795,LILA-Supermercado,Steven,Buchanan
+21030,LILA-Supermercado,Margaret,Peacock
+23031,LILA-Supermercado,Laura,Callahan
+23937,LILA-Supermercado,Anne,Dodsworth
+24070,LILA-Supermercado,Laura,Callahan
+24144,LILA-Supermercado,Margaret,Peacock
+24745,LILA-Supermercado,Janet,Leverling
+24765,LILA-Supermercado,Laura,Callahan
+25421,LILA-Supermercado,Nancy,Davolio
+25478,LILA-Supermercado,Laura,Callahan
+26080,LILA-Supermercado,Michael,Suyama
+12063,LINO-Delicateses,Robert,King
+12617,LINO-Delicateses,Anne,Dodsworth
+16310,LINO-Delicateses,Nancy,Davolio
+16794,LINO-Delicateses,Robert,King
+17195,LINO-Delicateses,Anne,Dodsworth
+17804,LINO-Delicateses,Steven,Buchanan
+18743,LINO-Delicateses,Robert,King
+20579,LINO-Delicateses,Michael,Suyama
+20909,LINO-Delicateses,Robert,King
+21048,LINO-Delicateses,Steven,Buchanan
+23238,LINO-Delicateses,Laura,Callahan
+23242,LINO-Delicateses,Anne,Dodsworth
+24434,LINO-Delicateses,Michael,Suyama
+25237,LINO-Delicateses,Steven,Buchanan
+25974,LINO-Delicateses,Janet,Leverling
+26327,LINO-Delicateses,Andrew,Fuller
+10927,La corne d'abondance,Margaret,Peacock
+11200,La corne d'abondance,Andrew,Fuller
+11292,La corne d'abondance,Robert,King
+12087,La corne d'abondance,Steven,Buchanan
+13117,La corne d'abondance,Robert,King
+15135,La corne d'abondance,Anne,Dodsworth
+15776,La corne d'abondance,Janet,Leverling
+16056,La corne d'abondance,Steven,Buchanan
+16180,La corne d'abondance,Andrew,Fuller
+18342,La corne d'abondance,Steven,Buchanan
+18746,La corne d'abondance,Steven,Buchanan
+20759,La corne d'abondance,Michael,Suyama
+22521,La corne d'abondance,Margaret,Peacock
+22809,La corne d'abondance,Margaret,Peacock
+23322,La corne d'abondance,Margaret,Peacock
+24553,La corne d'abondance,Janet,Leverling
+25122,La corne d'abondance,Steven,Buchanan
+25576,La corne d'abondance,Robert,King
+11597,La maison d'Asie,Michael,Suyama
+11633,La maison d'Asie,Robert,King
+12437,La maison d'Asie,Nancy,Davolio
+12661,La maison d'Asie,Laura,Callahan
+14088,La maison d'Asie,Anne,Dodsworth
+14343,La maison d'Asie,Anne,Dodsworth
+16691,La maison d'Asie,Anne,Dodsworth
+16820,La maison d'Asie,Steven,Buchanan
+17659,La maison d'Asie,Margaret,Peacock
+18212,La maison d'Asie,Andrew,Fuller
+18534,La maison d'Asie,Steven,Buchanan
+19426,La maison d'Asie,Margaret,Peacock
+19714,La maison d'Asie,Margaret,Peacock
+20467,La maison d'Asie,Margaret,Peacock
+20845,La maison d'Asie,Nancy,Davolio
+21105,La maison d'Asie,Michael,Suyama
+21336,La maison d'Asie,Janet,Leverling
+22672,La maison d'Asie,Janet,Leverling
+22898,La maison d'Asie,Andrew,Fuller
+23400,La maison d'Asie,Janet,Leverling
+23523,La maison d'Asie,Janet,Leverling
+23863,La maison d'Asie,Laura,Callahan
+24109,La maison d'Asie,Janet,Leverling
+24375,La maison d'Asie,Laura,Callahan
+24798,La maison d'Asie,Michael,Suyama
+11372,Laughing Bacchus Wine Cellars,Robert,King
+11388,Laughing Bacchus Wine Cellars,Janet,Leverling
+12853,Laughing Bacchus Wine Cellars,Anne,Dodsworth
+14358,Laughing Bacchus Wine Cellars,Nancy,Davolio
+17326,Laughing Bacchus Wine Cellars,Robert,King
+17807,Laughing Bacchus Wine Cellars,Anne,Dodsworth
+18766,Laughing Bacchus Wine Cellars,Nancy,Davolio
+19631,Laughing Bacchus Wine Cellars,Margaret,Peacock
+20870,Laughing Bacchus Wine Cellars,Margaret,Peacock
+22301,Laughing Bacchus Wine Cellars,Margaret,Peacock
+22594,Laughing Bacchus Wine Cellars,Michael,Suyama
+23366,Laughing Bacchus Wine Cellars,Steven,Buchanan
+23539,Laughing Bacchus Wine Cellars,Robert,King
+23632,Laughing Bacchus Wine Cellars,Andrew,Fuller
+24009,Laughing Bacchus Wine Cellars,Steven,Buchanan
+25541,Laughing Bacchus Wine Cellars,Robert,King
+25542,Laughing Bacchus Wine Cellars,Janet,Leverling
+25871,Laughing Bacchus Wine Cellars,Anne,Dodsworth
+26184,Laughing Bacchus Wine Cellars,Steven,Buchanan
+12144,Lazy K Kountry Store,Robert,King
+12166,Lazy K Kountry Store,Steven,Buchanan
+15632,Lazy K Kountry Store,Nancy,Davolio
+16513,Lazy K Kountry Store,Robert,King
+16754,Lazy K Kountry Store,Andrew,Fuller
+17049,Lazy K Kountry Store,Robert,King
+17165,Lazy K Kountry Store,Nancy,Davolio
+18076,Lazy K Kountry Store,Janet,Leverling
+18357,Lazy K Kountry Store,Andrew,Fuller
+18466,Lazy K Kountry Store,Anne,Dodsworth
+18983,Lazy K Kountry Store,Steven,Buchanan
+19096,Lazy K Kountry Store,Anne,Dodsworth
+19310,Lazy K Kountry Store,Janet,Leverling
+19950,Lazy K Kountry Store,Andrew,Fuller
+21693,Lazy K Kountry Store,Steven,Buchanan
+22017,Lazy K Kountry Store,Steven,Buchanan
+22844,Lazy K Kountry Store,Robert,King
+22870,Lazy K Kountry Store,Nancy,Davolio
+26223,Lazy K Kountry Store,Steven,Buchanan
+26263,Lazy K Kountry Store,Steven,Buchanan
+11491,Lehmanns Marktstand,Anne,Dodsworth
+12204,Lehmanns Marktstand,Janet,Leverling
+13379,Lehmanns Marktstand,Andrew,Fuller
+14199,Lehmanns Marktstand,Anne,Dodsworth
+15352,Lehmanns Marktstand,Michael,Suyama
+15566,Lehmanns Marktstand,Janet,Leverling
+16144,Lehmanns Marktstand,Steven,Buchanan
+16900,Lehmanns Marktstand,Janet,Leverling
+16953,Lehmanns Marktstand,Laura,Callahan
+17402,Lehmanns Marktstand,Anne,Dodsworth
+17798,Lehmanns Marktstand,Laura,Callahan
+19590,Lehmanns Marktstand,Robert,King
+20199,Lehmanns Marktstand,Robert,King
+20513,Lehmanns Marktstand,Andrew,Fuller
+20555,Lehmanns Marktstand,Andrew,Fuller
+21424,Lehmanns Marktstand,Nancy,Davolio
+22427,Lehmanns Marktstand,Margaret,Peacock
+25063,Lehmanns Marktstand,Andrew,Fuller
+25341,Lehmanns Marktstand,Robert,King
+25433,Lehmanns Marktstand,Anne,Dodsworth
+25933,Lehmanns Marktstand,Michael,Suyama
+26191,Lehmanns Marktstand,Michael,Suyama
+11803,Let's Stop N Shop,Andrew,Fuller
+11810,Let's Stop N Shop,Michael,Suyama
+12898,Let's Stop N Shop,Steven,Buchanan
+13008,Let's Stop N Shop,Janet,Leverling
+18184,Let's Stop N Shop,Nancy,Davolio
+18846,Let's Stop N Shop,Nancy,Davolio
+18856,Let's Stop N Shop,Janet,Leverling
+20069,Let's Stop N Shop,Laura,Callahan
+21841,Let's Stop N Shop,Anne,Dodsworth
+21859,Let's Stop N Shop,Margaret,Peacock
+21871,Let's Stop N Shop,Andrew,Fuller
+22576,Let's Stop N Shop,Janet,Leverling
+23059,Let's Stop N Shop,Laura,Callahan
+24600,Let's Stop N Shop,Steven,Buchanan
+24645,Let's Stop N Shop,Margaret,Peacock
+24900,Let's Stop N Shop,Michael,Suyama
+25336,Let's Stop N Shop,Janet,Leverling
+25408,Let's Stop N Shop,Nancy,Davolio
+25484,Let's Stop N Shop,Michael,Suyama
+25632,Let's Stop N Shop,Andrew,Fuller
+25962,Let's Stop N Shop,Michael,Suyama
+26382,Let's Stop N Shop,Anne,Dodsworth
+15542,Lonesome Pine Restaurant,Margaret,Peacock
+15726,Lonesome Pine Restaurant,Janet,Leverling
+16410,Lonesome Pine Restaurant,Anne,Dodsworth
+17604,Lonesome Pine Restaurant,Janet,Leverling
+18565,Lonesome Pine Restaurant,Michael,Suyama
+18713,Lonesome Pine Restaurant,Margaret,Peacock
+19939,Lonesome Pine Restaurant,Michael,Suyama
+21094,Lonesome Pine Restaurant,Michael,Suyama
+21099,Lonesome Pine Restaurant,Anne,Dodsworth
+21613,Lonesome Pine Restaurant,Margaret,Peacock
+21989,Lonesome Pine Restaurant,Nancy,Davolio
+22224,Lonesome Pine Restaurant,Laura,Callahan
+23044,Lonesome Pine Restaurant,Laura,Callahan
+24665,Lonesome Pine Restaurant,Laura,Callahan
+25603,Lonesome Pine Restaurant,Anne,Dodsworth
+26227,Lonesome Pine Restaurant,Janet,Leverling
+12013,Magazzini Alimentari Riuniti,Janet,Leverling
+12390,Magazzini Alimentari Riuniti,Janet,Leverling
+12528,Magazzini Alimentari Riuniti,Nancy,Davolio
+12652,Magazzini Alimentari Riuniti,Michael,Suyama
+13431,Magazzini Alimentari Riuniti,Margaret,Peacock
+14335,Magazzini Alimentari Riuniti,Nancy,Davolio
+14941,Magazzini Alimentari Riuniti,Michael,Suyama
+15043,Magazzini Alimentari Riuniti,Janet,Leverling
+15074,Magazzini Alimentari Riuniti,Nancy,Davolio
+15643,Magazzini Alimentari Riuniti,Margaret,Peacock
+15816,Magazzini Alimentari Riuniti,Margaret,Peacock
+19852,Magazzini Alimentari Riuniti,Andrew,Fuller
+21761,Magazzini Alimentari Riuniti,Nancy,Davolio
+22602,Magazzini Alimentari Riuniti,Andrew,Fuller
+23113,Magazzini Alimentari Riuniti,Anne,Dodsworth
+24334,Magazzini Alimentari Riuniti,Andrew,Fuller
+11520,Maison Dewey,Margaret,Peacock
+12118,Maison Dewey,Janet,Leverling
+12893,Maison Dewey,Andrew,Fuller
+13724,Maison Dewey,Anne,Dodsworth
+13917,Maison Dewey,Anne,Dodsworth
+13999,Maison Dewey,Margaret,Peacock
+14479,Maison Dewey,Robert,King
+14744,Maison Dewey,Margaret,Peacock
+15834,Maison Dewey,Nancy,Davolio
+18705,Maison Dewey,Laura,Callahan
+21362,Maison Dewey,Anne,Dodsworth
+21365,Maison Dewey,Steven,Buchanan
+22387,Maison Dewey,Michael,Suyama
+22422,Maison Dewey,Steven,Buchanan
+22423,Maison Dewey,Andrew,Fuller
+22845,Maison Dewey,Laura,Callahan
+23818,Maison Dewey,Steven,Buchanan
+23951,Maison Dewey,Robert,King
+24340,Maison Dewey,Anne,Dodsworth
+24670,Maison Dewey,Robert,King
+24686,Maison Dewey,Andrew,Fuller
+24935,Maison Dewey,Andrew,Fuller
+24951,Maison Dewey,Michael,Suyama
+24963,Maison Dewey,Laura,Callahan
+26056,Maison Dewey,Steven,Buchanan
+11190,Morgenstern Gesundkost,Margaret,Peacock
+12969,Morgenstern Gesundkost,Andrew,Fuller
+12994,Morgenstern Gesundkost,Margaret,Peacock
+13070,Morgenstern Gesundkost,Michael,Suyama
+13613,Morgenstern Gesundkost,Anne,Dodsworth
+14426,Morgenstern Gesundkost,Steven,Buchanan
+14893,Morgenstern Gesundkost,Robert,King
+16804,Morgenstern Gesundkost,Nancy,Davolio
+17652,Morgenstern Gesundkost,Andrew,Fuller
+17808,Morgenstern Gesundkost,Anne,Dodsworth
+17874,Morgenstern Gesundkost,Nancy,Davolio
+18523,Morgenstern Gesundkost,Laura,Callahan
+19247,Morgenstern Gesundkost,Margaret,Peacock
+19545,Morgenstern Gesundkost,Michael,Suyama
+19809,Morgenstern Gesundkost,Janet,Leverling
+21206,Morgenstern Gesundkost,Nancy,Davolio
+21689,Morgenstern Gesundkost,Robert,King
+22240,Morgenstern Gesundkost,Steven,Buchanan
+23874,Morgenstern Gesundkost,Nancy,Davolio
+25709,Morgenstern Gesundkost,Margaret,Peacock
+25783,Morgenstern Gesundkost,Janet,Leverling
+26186,Morgenstern Gesundkost,Michael,Suyama
+12473,Mère Paillarde,Nancy,Davolio
+12783,Mère Paillarde,Nancy,Davolio
+13532,Mère Paillarde,Michael,Suyama
+14042,Mère Paillarde,Janet,Leverling
+14341,Mère Paillarde,Steven,Buchanan
+14652,Mère Paillarde,Janet,Leverling
+14665,Mère Paillarde,Robert,King
+16619,Mère Paillarde,Michael,Suyama
+16710,Mère Paillarde,Steven,Buchanan
+19217,Mère Paillarde,Nancy,Davolio
+19867,Mère Paillarde,Anne,Dodsworth
+19927,Mère Paillarde,Janet,Leverling
+20034,Mère Paillarde,Laura,Callahan
+20614,Mère Paillarde,Nancy,Davolio
+25555,Mère Paillarde,Michael,Suyama
+25580,Mère Paillarde,Michael,Suyama
+26210,Mère Paillarde,Robert,King
+11933,North/South,Nancy,Davolio
+15117,North/South,Steven,Buchanan
+15773,North/South,Andrew,Fuller
+16312,North/South,Robert,King
+18178,North/South,Laura,Callahan
+18332,North/South,Robert,King
+18978,North/South,Nancy,Davolio
+19087,North/South,Andrew,Fuller
+19342,North/South,Janet,Leverling
+21950,North/South,Michael,Suyama
+22595,North/South,Nancy,Davolio
+23760,North/South,Janet,Leverling
+11787,Océano Atlántico Ltda.,Anne,Dodsworth
+13306,Océano Atlántico Ltda.,Anne,Dodsworth
+13774,Océano Atlántico Ltda.,Michael,Suyama
+14259,Océano Atlántico Ltda.,Robert,King
+14951,Océano Atlántico Ltda.,Michael,Suyama
+16143,Océano Atlántico Ltda.,Nancy,Davolio
+16523,Océano Atlántico Ltda.,Steven,Buchanan
+17779,Océano Atlántico Ltda.,Steven,Buchanan
+18037,Océano Atlántico Ltda.,Nancy,Davolio
+20381,Océano Atlántico Ltda.,Steven,Buchanan
+21407,Océano Atlántico Ltda.,Andrew,Fuller
+21562,Océano Atlántico Ltda.,Janet,Leverling
+21907,Océano Atlántico Ltda.,Andrew,Fuller
+23379,Océano Atlántico Ltda.,Margaret,Peacock
+23663,Océano Atlántico Ltda.,Michael,Suyama
+24373,Océano Atlántico Ltda.,Laura,Callahan
+24756,Océano Atlántico Ltda.,Janet,Leverling
+26010,Océano Atlántico Ltda.,Anne,Dodsworth
+26221,Océano Atlántico Ltda.,Laura,Callahan
+26361,Océano Atlántico Ltda.,Nancy,Davolio
+12219,Old World Delicatessen,Michael,Suyama
+12403,Old World Delicatessen,Laura,Callahan
+12728,Old World Delicatessen,Margaret,Peacock
+13858,Old World Delicatessen,Laura,Callahan
+14566,Old World Delicatessen,Andrew,Fuller
+15468,Old World Delicatessen,Anne,Dodsworth
+15584,Old World Delicatessen,Michael,Suyama
+15812,Old World Delicatessen,Anne,Dodsworth
+16125,Old World Delicatessen,Steven,Buchanan
+16609,Old World Delicatessen,Robert,King
+17900,Old World Delicatessen,Andrew,Fuller
+18075,Old World Delicatessen,Anne,Dodsworth
+18262,Old World Delicatessen,Laura,Callahan
+19268,Old World Delicatessen,Janet,Leverling
+19618,Old World Delicatessen,Steven,Buchanan
+19924,Old World Delicatessen,Andrew,Fuller
+20411,Old World Delicatessen,Anne,Dodsworth
+21271,Old World Delicatessen,Michael,Suyama
+21356,Old World Delicatessen,Steven,Buchanan
+23150,Old World Delicatessen,Steven,Buchanan
+24226,Old World Delicatessen,Nancy,Davolio
+11460,Ottilies Käseladen,Janet,Leverling
+12160,Ottilies Käseladen,Janet,Leverling
+13998,Ottilies Käseladen,Robert,King
+15104,Ottilies Käseladen,Nancy,Davolio
+16301,Ottilies Käseladen,Robert,King
+17266,Ottilies Käseladen,Nancy,Davolio
+17445,Ottilies Käseladen,Anne,Dodsworth
+19780,Ottilies Käseladen,Margaret,Peacock
+21297,Ottilies Käseladen,Andrew,Fuller
+22486,Ottilies Käseladen,Nancy,Davolio
+22969,Ottilies Käseladen,Laura,Callahan
+23329,Ottilies Käseladen,Steven,Buchanan
+24295,Ottilies Käseladen,Laura,Callahan
+24381,Ottilies Käseladen,Andrew,Fuller
+24415,Ottilies Käseladen,Michael,Suyama
+24650,Ottilies Käseladen,Michael,Suyama
+24838,Ottilies Käseladen,Andrew,Fuller
+25363,Ottilies Käseladen,Janet,Leverling
+26232,Ottilies Käseladen,Nancy,Davolio
+26498,Ottilies Käseladen,Anne,Dodsworth
+11434,Paris spécialités,Anne,Dodsworth
+11488,Paris spécialités,Laura,Callahan
+13735,Paris spécialités,Robert,King
+14753,Paris spécialités,Michael,Suyama
+14836,Paris spécialités,Nancy,Davolio
+15010,Paris spécialités,Janet,Leverling
+15206,Paris spécialités,Laura,Callahan
+15853,Paris spécialités,Janet,Leverling
+16285,Paris spécialités,Laura,Callahan
+17064,Paris spécialités,Anne,Dodsworth
+17722,Paris spécialités,Michael,Suyama
+20212,Paris spécialités,Laura,Callahan
+20665,Paris spécialités,Janet,Leverling
+20827,Paris spécialités,Michael,Suyama
+21796,Paris spécialités,Laura,Callahan
+22611,Paris spécialités,Margaret,Peacock
+22852,Paris spécialités,Robert,King
+23010,Paris spécialités,Michael,Suyama
+23143,Paris spécialités,Robert,King
+23372,Paris spécialités,Nancy,Davolio
+23832,Paris spécialités,Steven,Buchanan
+23855,Paris spécialités,Margaret,Peacock
+24168,Paris spécialités,Margaret,Peacock
+24413,Paris spécialités,Margaret,Peacock
+25380,Paris spécialités,Laura,Callahan
+25747,Paris spécialités,Anne,Dodsworth
+25795,Paris spécialités,Steven,Buchanan
+26507,Paris spécialités,Robert,King
+11171,Pericles Comidas clásicas,Andrew,Fuller
+13194,Pericles Comidas clásicas,Steven,Buchanan
+13227,Pericles Comidas clásicas,Laura,Callahan
+14417,Pericles Comidas clásicas,Nancy,Davolio
+16954,Pericles Comidas clásicas,Andrew,Fuller
+17383,Pericles Comidas clásicas,Andrew,Fuller
+17545,Pericles Comidas clásicas,Michael,Suyama
+17650,Pericles Comidas clásicas,Janet,Leverling
+19005,Pericles Comidas clásicas,Michael,Suyama
+19408,Pericles Comidas clásicas,Nancy,Davolio
+19444,Pericles Comidas clásicas,Andrew,Fuller
+20732,Pericles Comidas clásicas,Janet,Leverling
+21137,Pericles Comidas clásicas,Anne,Dodsworth
+21715,Pericles Comidas clásicas,Michael,Suyama
+22473,Pericles Comidas clásicas,Andrew,Fuller
+25285,Pericles Comidas clásicas,Andrew,Fuller
+25335,Pericles Comidas clásicas,Steven,Buchanan
+25395,Pericles Comidas clásicas,Robert,King
+26247,Pericles Comidas clásicas,Laura,Callahan
+12223,Piccolo und mehr,Janet,Leverling
+12379,Piccolo und mehr,Margaret,Peacock
+15056,Piccolo und mehr,Janet,Leverling
+17138,Piccolo und mehr,Robert,King
+19006,Piccolo und mehr,Nancy,Davolio
+19417,Piccolo und mehr,Michael,Suyama
+19570,Piccolo und mehr,Laura,Callahan
+19599,Piccolo und mehr,Robert,King
+19721,Piccolo und mehr,Andrew,Fuller
+20481,Piccolo und mehr,Anne,Dodsworth
+20931,Piccolo und mehr,Janet,Leverling
+21384,Piccolo und mehr,Michael,Suyama
+21813,Piccolo und mehr,Steven,Buchanan
+22584,Piccolo und mehr,Nancy,Davolio
+23901,Piccolo und mehr,Robert,King
+23953,Piccolo und mehr,Janet,Leverling
+24145,Piccolo und mehr,Michael,Suyama
+25913,Piccolo und mehr,Steven,Buchanan
+11315,Princesa Isabel Vinhos,Michael,Suyama
+12861,Princesa Isabel Vinhos,Laura,Callahan
+13179,Princesa Isabel Vinhos,Laura,Callahan
+13311,Princesa Isabel Vinhos,Michael,Suyama
+13642,Princesa Isabel Vinhos,Janet,Leverling
+14228,Princesa Isabel Vinhos,Michael,Suyama
+14369,Princesa Isabel Vinhos,Robert,King
+15952,Princesa Isabel Vinhos,Robert,King
+17734,Princesa Isabel Vinhos,Michael,Suyama
+18172,Princesa Isabel Vinhos,Anne,Dodsworth
+18379,Princesa Isabel Vinhos,Nancy,Davolio
+18598,Princesa Isabel Vinhos,Andrew,Fuller
+19050,Princesa Isabel Vinhos,Andrew,Fuller
+20439,Princesa Isabel Vinhos,Andrew,Fuller
+21970,Princesa Isabel Vinhos,Robert,King
+22121,Princesa Isabel Vinhos,Nancy,Davolio
+22883,Princesa Isabel Vinhos,Laura,Callahan
+24341,Princesa Isabel Vinhos,Nancy,Davolio
+12977,QUICK-Stop,Steven,Buchanan
+12995,QUICK-Stop,Laura,Callahan
+14766,QUICK-Stop,Andrew,Fuller
+15203,QUICK-Stop,Margaret,Peacock
+16195,QUICK-Stop,Michael,Suyama
+16357,QUICK-Stop,Laura,Callahan
+16726,QUICK-Stop,Janet,Leverling
+17363,QUICK-Stop,Nancy,Davolio
+17523,QUICK-Stop,Janet,Leverling
+19615,QUICK-Stop,Michael,Suyama
+19836,QUICK-Stop,Laura,Callahan
+19855,QUICK-Stop,Nancy,Davolio
+20074,QUICK-Stop,Michael,Suyama
+22742,QUICK-Stop,Michael,Suyama
+23571,QUICK-Stop,Steven,Buchanan
+11384,Que Delícia,Anne,Dodsworth
+11715,Que Delícia,Anne,Dodsworth
+12396,Que Delícia,Anne,Dodsworth
+13172,Que Delícia,Steven,Buchanan
+14333,Que Delícia,Andrew,Fuller
+14755,Que Delícia,Janet,Leverling
+15199,Que Delícia,Robert,King
+15610,Que Delícia,Janet,Leverling
+15642,Que Delícia,Andrew,Fuller
+15668,Que Delícia,Margaret,Peacock
+19973,Que Delícia,Margaret,Peacock
+19979,Que Delícia,Steven,Buchanan
+20843,Que Delícia,Janet,Leverling
+21975,Que Delícia,Steven,Buchanan
+22068,Que Delícia,Steven,Buchanan
+22717,Que Delícia,Laura,Callahan
+24240,Que Delícia,Robert,King
+25852,Que Delícia,Margaret,Peacock
+11726,Queen Cozinha,Margaret,Peacock
+12338,Queen Cozinha,Margaret,Peacock
+12604,Queen Cozinha,Margaret,Peacock
+12851,Queen Cozinha,Janet,Leverling
+13322,Queen Cozinha,Andrew,Fuller
+14286,Queen Cozinha,Janet,Leverling
+14889,Queen Cozinha,Andrew,Fuller
+15551,Queen Cozinha,Steven,Buchanan
+15848,Queen Cozinha,Steven,Buchanan
+17290,Queen Cozinha,Janet,Leverling
+19937,Queen Cozinha,Robert,King
+21025,Queen Cozinha,Robert,King
+22833,Queen Cozinha,Andrew,Fuller
+24060,Queen Cozinha,Margaret,Peacock
+25008,Queen Cozinha,Andrew,Fuller
+25512,Queen Cozinha,Robert,King
+25840,Queen Cozinha,Michael,Suyama
+10828,Rancho grande,Anne,Dodsworth
+12487,Rancho grande,Margaret,Peacock
+12494,Rancho grande,Andrew,Fuller
+12587,Rancho grande,Nancy,Davolio
+12663,Rancho grande,Michael,Suyama
+13230,Rancho grande,Andrew,Fuller
+13417,Rancho grande,Janet,Leverling
+13975,Rancho grande,Michael,Suyama
+14422,Rancho grande,Michael,Suyama
+14592,Rancho grande,Steven,Buchanan
+16087,Rancho grande,Robert,King
+16396,Rancho grande,Michael,Suyama
+16908,Rancho grande,Margaret,Peacock
+16947,Rancho grande,Robert,King
+17148,Rancho grande,Margaret,Peacock
+17234,Rancho grande,Janet,Leverling
+17546,Rancho grande,Laura,Callahan
+18228,Rancho grande,Margaret,Peacock
+19575,Rancho grande,Janet,Leverling
+20667,Rancho grande,Laura,Callahan
+20852,Rancho grande,Nancy,Davolio
+21115,Rancho grande,Janet,Leverling
+22701,Rancho grande,Steven,Buchanan
+23590,Rancho grande,Janet,Leverling
+24122,Rancho grande,Michael,Suyama
+24153,Rancho grande,Steven,Buchanan
+24777,Rancho grande,Laura,Callahan
+25703,Rancho grande,Michael,Suyama
+11147,Rattlesnake Canyon Grocery,Michael,Suyama
+11249,Rattlesnake Canyon Grocery,Laura,Callahan
+12936,Rattlesnake Canyon Grocery,Andrew,Fuller
+13425,Rattlesnake Canyon Grocery,Michael,Suyama
+14130,Rattlesnake Canyon Grocery,Steven,Buchanan
+14255,Rattlesnake Canyon Grocery,Laura,Callahan
+17915,Rattlesnake Canyon Grocery,Margaret,Peacock
+18220,Rattlesnake Canyon Grocery,Anne,Dodsworth
+20174,Rattlesnake Canyon Grocery,Robert,King
+22096,Rattlesnake Canyon Grocery,Michael,Suyama
+22137,Rattlesnake Canyon Grocery,Janet,Leverling
+23471,Rattlesnake Canyon Grocery,Janet,Leverling
+25100,Rattlesnake Canyon Grocery,Laura,Callahan
+25823,Rattlesnake Canyon Grocery,Steven,Buchanan
+11255,Reggiani Caseifici,Robert,King
+11493,Reggiani Caseifici,Laura,Callahan
+12618,Reggiani Caseifici,Robert,King
+13037,Reggiani Caseifici,Margaret,Peacock
+13041,Reggiani Caseifici,Robert,King
+14493,Reggiani Caseifici,Steven,Buchanan
+14595,Reggiani Caseifici,Janet,Leverling
+15757,Reggiani Caseifici,Robert,King
+17222,Reggiani Caseifici,Robert,King
+18681,Reggiani Caseifici,Margaret,Peacock
+18794,Reggiani Caseifici,Laura,Callahan
+20230,Reggiani Caseifici,Margaret,Peacock
+24201,Reggiani Caseifici,Janet,Leverling
+24521,Reggiani Caseifici,Andrew,Fuller
+25054,Reggiani Caseifici,Robert,King
+25428,Reggiani Caseifici,Robert,King
+11164,Ricardo Adocicados,Janet,Leverling
+11786,Ricardo Adocicados,Andrew,Fuller
+13966,Ricardo Adocicados,Janet,Leverling
+14881,Ricardo Adocicados,Anne,Dodsworth
+14971,Ricardo Adocicados,Robert,King
+16183,Ricardo Adocicados,Margaret,Peacock
+16945,Ricardo Adocicados,Michael,Suyama
+17086,Ricardo Adocicados,Margaret,Peacock
+17181,Ricardo Adocicados,Robert,King
+19865,Ricardo Adocicados,Robert,King
+20475,Ricardo Adocicados,Andrew,Fuller
+21621,Ricardo Adocicados,Steven,Buchanan
+22913,Ricardo Adocicados,Laura,Callahan
+23686,Ricardo Adocicados,Anne,Dodsworth
+23808,Ricardo Adocicados,Steven,Buchanan
+24884,Ricardo Adocicados,Robert,King
+25103,Ricardo Adocicados,Anne,Dodsworth
+25244,Ricardo Adocicados,Robert,King
+26472,Ricardo Adocicados,Steven,Buchanan
+11568,Richter Supermarkt,Margaret,Peacock
+12522,Richter Supermarkt,Robert,King
+13559,Richter Supermarkt,Steven,Buchanan
+14394,Richter Supermarkt,Andrew,Fuller
+14496,Richter Supermarkt,Robert,King
+14588,Richter Supermarkt,Andrew,Fuller
+16424,Richter Supermarkt,Janet,Leverling
+16593,Richter Supermarkt,Steven,Buchanan
+16670,Richter Supermarkt,Anne,Dodsworth
+17491,Richter Supermarkt,Steven,Buchanan
+18186,Richter Supermarkt,Laura,Callahan
+18530,Richter Supermarkt,Nancy,Davolio
+18892,Richter Supermarkt,Andrew,Fuller
+18965,Richter Supermarkt,Andrew,Fuller
+19197,Richter Supermarkt,Janet,Leverling
+19361,Richter Supermarkt,Anne,Dodsworth
+19658,Richter Supermarkt,Steven,Buchanan
+20531,Richter Supermarkt,Michael,Suyama
+20533,Richter Supermarkt,Nancy,Davolio
+21136,Richter Supermarkt,Anne,Dodsworth
+22269,Richter Supermarkt,Nancy,Davolio
+22328,Richter Supermarkt,Anne,Dodsworth
+22607,Richter Supermarkt,Janet,Leverling
+24526,Richter Supermarkt,Nancy,Davolio
+24655,Richter Supermarkt,Laura,Callahan
+24844,Richter Supermarkt,Robert,King
+25584,Richter Supermarkt,Steven,Buchanan
+11669,Romero y tomillo,Michael,Suyama
+13572,Romero y tomillo,Anne,Dodsworth
+13585,Romero y tomillo,Robert,King
+14549,Romero y tomillo,Nancy,Davolio
+15315,Romero y tomillo,Laura,Callahan
+15320,Romero y tomillo,Michael,Suyama
+16594,Romero y tomillo,Anne,Dodsworth
+16860,Romero y tomillo,Robert,King
+18015,Romero y tomillo,Michael,Suyama
+20051,Romero y tomillo,Michael,Suyama
+20701,Romero y tomillo,Andrew,Fuller
+23279,Romero y tomillo,Robert,King
+24025,Romero y tomillo,Nancy,Davolio
+24081,Romero y tomillo,Janet,Leverling
+24530,Romero y tomillo,Robert,King
+24697,Romero y tomillo,Andrew,Fuller
+11128,Santé Gourmet,Robert,King
+12010,Santé Gourmet,Robert,King
+12456,Santé Gourmet,Nancy,Davolio
+12478,Santé Gourmet,Steven,Buchanan
+12845,Santé Gourmet,Andrew,Fuller
+13356,Santé Gourmet,Nancy,Davolio
+13569,Santé Gourmet,Nancy,Davolio
+16446,Santé Gourmet,Anne,Dodsworth
+16684,Santé Gourmet,Andrew,Fuller
+17893,Santé Gourmet,Michael,Suyama
+18034,Santé Gourmet,Steven,Buchanan
+18657,Santé Gourmet,Michael,Suyama
+19919,Santé Gourmet,Steven,Buchanan
+20412,Santé Gourmet,Robert,King
+20494,Santé Gourmet,Janet,Leverling
+20602,Santé Gourmet,Margaret,Peacock
+21020,Santé Gourmet,Janet,Leverling
+21198,Santé Gourmet,Margaret,Peacock
+22289,Santé Gourmet,Steven,Buchanan
+22323,Santé Gourmet,Steven,Buchanan
+22593,Santé Gourmet,Anne,Dodsworth
+23073,Santé Gourmet,Michael,Suyama
+23465,Santé Gourmet,Nancy,Davolio
+23577,Santé Gourmet,Janet,Leverling
+10847,Save-a-lot Markets,Margaret,Peacock
+11598,Save-a-lot Markets,Janet,Leverling
+11665,Save-a-lot Markets,Robert,King
+12325,Save-a-lot Markets,Anne,Dodsworth
+12964,Save-a-lot Markets,Margaret,Peacock
+13144,Save-a-lot Markets,Margaret,Peacock
+13857,Save-a-lot Markets,Janet,Leverling
+14500,Save-a-lot Markets,Laura,Callahan
+14571,Save-a-lot Markets,Margaret,Peacock
+16876,Save-a-lot Markets,Janet,Leverling
+17617,Save-a-lot Markets,Robert,King
+19162,Save-a-lot Markets,Michael,Suyama
+20308,Save-a-lot Markets,Janet,Leverling
+21113,Save-a-lot Markets,Margaret,Peacock
+21199,Save-a-lot Markets,Laura,Callahan
+22397,Save-a-lot Markets,Steven,Buchanan
+23538,Save-a-lot Markets,Laura,Callahan
+24041,Save-a-lot Markets,Laura,Callahan
+24617,Save-a-lot Markets,Robert,King
+26352,Save-a-lot Markets,Robert,King
+11281,Seven Seas Imports,Michael,Suyama
+11528,Seven Seas Imports,Anne,Dodsworth
+11558,Seven Seas Imports,Steven,Buchanan
+14045,Seven Seas Imports,Laura,Callahan
+16286,Seven Seas Imports,Laura,Callahan
+17637,Seven Seas Imports,Anne,Dodsworth
+18463,Seven Seas Imports,Steven,Buchanan
+19467,Seven Seas Imports,Anne,Dodsworth
+19840,Seven Seas Imports,Janet,Leverling
+20655,Seven Seas Imports,Robert,King
+21156,Seven Seas Imports,Janet,Leverling
+21180,Seven Seas Imports,Anne,Dodsworth
+21333,Seven Seas Imports,Margaret,Peacock
+21737,Seven Seas Imports,Michael,Suyama
+22254,Seven Seas Imports,Steven,Buchanan
+22617,Seven Seas Imports,Margaret,Peacock
+23726,Seven Seas Imports,Steven,Buchanan
+24221,Seven Seas Imports,Robert,King
+24281,Seven Seas Imports,Nancy,Davolio
+24804,Seven Seas Imports,Laura,Callahan
+25488,Seven Seas Imports,Janet,Leverling
+25637,Seven Seas Imports,Anne,Dodsworth
+26437,Seven Seas Imports,Michael,Suyama
+11904,Simons bistro,Robert,King
+12626,Simons bistro,Andrew,Fuller
+14630,Simons bistro,Janet,Leverling
+15515,Simons bistro,Steven,Buchanan
+15941,Simons bistro,Laura,Callahan
+16245,Simons bistro,Janet,Leverling
+16819,Simons bistro,Anne,Dodsworth
+17497,Simons bistro,Robert,King
+20326,Simons bistro,Nancy,Davolio
+20437,Simons bistro,Laura,Callahan
+20641,Simons bistro,Laura,Callahan
+21108,Simons bistro,Steven,Buchanan
+23480,Simons bistro,Anne,Dodsworth
+24989,Simons bistro,Anne,Dodsworth
+25276,Simons bistro,Janet,Leverling
+25416,Simons bistro,Michael,Suyama
+26290,Simons bistro,Nancy,Davolio
+11387,Split Rail Beer & Ale,Robert,King
+11498,Split Rail Beer & Ale,Michael,Suyama
+12019,Split Rail Beer & Ale,Robert,King
+12312,Split Rail Beer & Ale,Laura,Callahan
+13902,Split Rail Beer & Ale,Anne,Dodsworth
+15384,Split Rail Beer & Ale,Steven,Buchanan
+16555,Split Rail Beer & Ale,Nancy,Davolio
+16868,Split Rail Beer & Ale,Anne,Dodsworth
+17001,Split Rail Beer & Ale,Michael,Suyama
+17754,Split Rail Beer & Ale,Janet,Leverling
+18751,Split Rail Beer & Ale,Janet,Leverling
+19603,Split Rail Beer & Ale,Laura,Callahan
+19624,Split Rail Beer & Ale,Michael,Suyama
+19912,Split Rail Beer & Ale,Nancy,Davolio
+19925,Split Rail Beer & Ale,Andrew,Fuller
+20569,Split Rail Beer & Ale,Laura,Callahan
+23147,Split Rail Beer & Ale,Andrew,Fuller
+23655,Split Rail Beer & Ale,Steven,Buchanan
+24718,Split Rail Beer & Ale,Laura,Callahan
+25071,Split Rail Beer & Ale,Margaret,Peacock
+11176,Spécialités du monde,Steven,Buchanan
+11396,Spécialités du monde,Andrew,Fuller
+12016,Spécialités du monde,Nancy,Davolio
+12342,Spécialités du monde,Anne,Dodsworth
+13252,Spécialités du monde,Steven,Buchanan
+13487,Spécialités du monde,Michael,Suyama
+13792,Spécialités du monde,Robert,King
+14002,Spécialités du monde,Anne,Dodsworth
+14513,Spécialités du monde,Robert,King
+14554,Spécialités du monde,Robert,King
+15523,Spécialités du monde,Robert,King
+16462,Spécialités du monde,Anne,Dodsworth
+17589,Spécialités du monde,Laura,Callahan
+17856,Spécialités du monde,Margaret,Peacock
+17879,Spécialités du monde,Robert,King
+18125,Spécialités du monde,Robert,King
+18464,Spécialités du monde,Janet,Leverling
+19145,Spécialités du monde,Robert,King
+19904,Spécialités du monde,Janet,Leverling
+20960,Spécialités du monde,Laura,Callahan
+23362,Spécialités du monde,Robert,King
+23933,Spécialités du monde,Laura,Callahan
+24412,Spécialités du monde,Laura,Callahan
+25793,Spécialités du monde,Janet,Leverling
+26068,Spécialités du monde,Margaret,Peacock
+12259,Suprêmes délices,Andrew,Fuller
+12824,Suprêmes délices,Nancy,Davolio
+12878,Suprêmes délices,Robert,King
+13772,Suprêmes délices,Nancy,Davolio
+14279,Suprêmes délices,Andrew,Fuller
+15222,Suprêmes délices,Nancy,Davolio
+15700,Suprêmes délices,Margaret,Peacock
+17574,Suprêmes délices,Nancy,Davolio
+19272,Suprêmes délices,Janet,Leverling
+19665,Suprêmes délices,Laura,Callahan
+21084,Suprêmes délices,Steven,Buchanan
+22007,Suprêmes délices,Anne,Dodsworth
+24420,Suprêmes délices,Anne,Dodsworth
+26429,Suprêmes délices,Andrew,Fuller
+11788,The Big Cheese,Michael,Suyama
+12336,The Big Cheese,Anne,Dodsworth
+12986,The Big Cheese,Nancy,Davolio
+13238,The Big Cheese,Nancy,Davolio
+13294,The Big Cheese,Nancy,Davolio
+13815,The Big Cheese,Margaret,Peacock
+14064,The Big Cheese,Janet,Leverling
+16531,The Big Cheese,Laura,Callahan
+16855,The Big Cheese,Andrew,Fuller
+18270,The Big Cheese,Margaret,Peacock
+19206,The Big Cheese,Andrew,Fuller
+19225,The Big Cheese,Steven,Buchanan
+19731,The Big Cheese,Anne,Dodsworth
+20607,The Big Cheese,Janet,Leverling
+20930,The Big Cheese,Margaret,Peacock
+21651,The Big Cheese,Steven,Buchanan
+22720,The Big Cheese,Andrew,Fuller
+22827,The Big Cheese,Janet,Leverling
+23003,The Big Cheese,Laura,Callahan
+23085,The Big Cheese,Laura,Callahan
+23310,The Big Cheese,Laura,Callahan
+24149,The Big Cheese,Robert,King
+24966,The Big Cheese,Laura,Callahan
+25943,The Big Cheese,Laura,Callahan
+11248,The Cracker Box,Laura,Callahan
+13019,The Cracker Box,Margaret,Peacock
+13482,The Cracker Box,Robert,King
+13974,The Cracker Box,Nancy,Davolio
+14721,The Cracker Box,Steven,Buchanan
+15442,The Cracker Box,Michael,Suyama
+15627,The Cracker Box,Michael,Suyama
+15926,The Cracker Box,Margaret,Peacock
+16291,The Cracker Box,Nancy,Davolio
+16323,The Cracker Box,Andrew,Fuller
+16468,The Cracker Box,Michael,Suyama
+16500,The Cracker Box,Janet,Leverling
+17367,The Cracker Box,Steven,Buchanan
+18062,The Cracker Box,Anne,Dodsworth
+18307,The Cracker Box,Margaret,Peacock
+19287,The Cracker Box,Steven,Buchanan
+19571,The Cracker Box,Janet,Leverling
+19826,The Cracker Box,Janet,Leverling
+19994,The Cracker Box,Margaret,Peacock
+20784,The Cracker Box,Margaret,Peacock
+22370,The Cracker Box,Steven,Buchanan
+23114,The Cracker Box,Janet,Leverling
+23268,The Cracker Box,Laura,Callahan
+25554,The Cracker Box,Nancy,Davolio
+26447,The Cracker Box,Andrew,Fuller
+12399,Toms Spezialitäten,Anne,Dodsworth
+12544,Toms Spezialitäten,Andrew,Fuller
+14011,Toms Spezialitäten,Robert,King
+14249,Toms Spezialitäten,Anne,Dodsworth
+15082,Toms Spezialitäten,Anne,Dodsworth
+15420,Toms Spezialitäten,Andrew,Fuller
+15676,Toms Spezialitäten,Andrew,Fuller
+16924,Toms Spezialitäten,Janet,Leverling
+17206,Toms Spezialitäten,Nancy,Davolio
+17256,Toms Spezialitäten,Nancy,Davolio
+17309,Toms Spezialitäten,Michael,Suyama
+17396,Toms Spezialitäten,Robert,King
+18154,Toms Spezialitäten,Laura,Callahan
+18826,Toms Spezialitäten,Andrew,Fuller
+19201,Toms Spezialitäten,Robert,King
+19628,Toms Spezialitäten,Margaret,Peacock
+19787,Toms Spezialitäten,Steven,Buchanan
+20745,Toms Spezialitäten,Michael,Suyama
+20866,Toms Spezialitäten,Laura,Callahan
+22374,Toms Spezialitäten,Laura,Callahan
+22761,Toms Spezialitäten,Margaret,Peacock
+23764,Toms Spezialitäten,Nancy,Davolio
+25549,Toms Spezialitäten,Steven,Buchanan
+25764,Toms Spezialitäten,Janet,Leverling
+26017,Toms Spezialitäten,Laura,Callahan
+12457,Tortuga Restaurante,Andrew,Fuller
+13171,Tortuga Restaurante,Laura,Callahan
+14251,Tortuga Restaurante,Anne,Dodsworth
+14414,Tortuga Restaurante,Laura,Callahan
+14528,Tortuga Restaurante,Robert,King
+16517,Tortuga Restaurante,Laura,Callahan
+16570,Tortuga Restaurante,Anne,Dodsworth
+17091,Tortuga Restaurante,Janet,Leverling
+17862,Tortuga Restaurante,Steven,Buchanan
+18030,Tortuga Restaurante,Janet,Leverling
+18149,Tortuga Restaurante,Steven,Buchanan
+18440,Tortuga Restaurante,Steven,Buchanan
+18793,Tortuga Restaurante,Robert,King
+18816,Tortuga Restaurante,Steven,Buchanan
+19229,Tortuga Restaurante,Anne,Dodsworth
+19340,Tortuga Restaurante,Robert,King
+19579,Tortuga Restaurante,Michael,Suyama
+19600,Tortuga Restaurante,Margaret,Peacock
+19790,Tortuga Restaurante,Margaret,Peacock
+20112,Tortuga Restaurante,Anne,Dodsworth
+21443,Tortuga Restaurante,Steven,Buchanan
+21905,Tortuga Restaurante,Anne,Dodsworth
+23240,Tortuga Restaurante,Anne,Dodsworth
+24586,Tortuga Restaurante,Janet,Leverling
+24721,Tortuga Restaurante,Janet,Leverling
+24859,Tortuga Restaurante,Anne,Dodsworth
+25935,Tortuga Restaurante,Laura,Callahan
+26035,Tortuga Restaurante,Laura,Callahan
+26069,Tortuga Restaurante,Margaret,Peacock
+11286,Tradição Hipermercados,Anne,Dodsworth
+11502,Tradição Hipermercados,Nancy,Davolio
+11562,Tradição Hipermercados,Michael,Suyama
+11944,Tradição Hipermercados,Robert,King
+12015,Tradição Hipermercados,Margaret,Peacock
+12941,Tradição Hipermercados,Margaret,Peacock
+13272,Tradição Hipermercados,Nancy,Davolio
+15626,Tradição Hipermercados,Michael,Suyama
+15772,Tradição Hipermercados,Andrew,Fuller
+15977,Tradição Hipermercados,Janet,Leverling
+16395,Tradição Hipermercados,Steven,Buchanan
+17082,Tradição Hipermercados,Andrew,Fuller
+17738,Tradição Hipermercados,Anne,Dodsworth
+18311,Tradição Hipermercados,Robert,King
+18391,Tradição Hipermercados,Robert,King
+18503,Tradição Hipermercados,Margaret,Peacock
+19248,Tradição Hipermercados,Laura,Callahan
+20603,Tradição Hipermercados,Margaret,Peacock
+20725,Tradição Hipermercados,Robert,King
+21979,Tradição Hipermercados,Janet,Leverling
+22699,Tradição Hipermercados,Steven,Buchanan
+23766,Tradição Hipermercados,Margaret,Peacock
+24677,Tradição Hipermercados,Janet,Leverling
+24972,Tradição Hipermercados,Steven,Buchanan
+25547,Tradição Hipermercados,Laura,Callahan
+25743,Tradição Hipermercados,Robert,King
+11158,Trail's Head Gourmet Provisioners,Robert,King
+11966,Trail's Head Gourmet Provisioners,Michael,Suyama
+12142,Trail's Head Gourmet Provisioners,Steven,Buchanan
+13248,Trail's Head Gourmet Provisioners,Margaret,Peacock
+13797,Trail's Head Gourmet Provisioners,Robert,King
+14742,Trail's Head Gourmet Provisioners,Michael,Suyama
+17777,Trail's Head Gourmet Provisioners,Janet,Leverling
+22694,Trail's Head Gourmet Provisioners,Robert,King
+23484,Trail's Head Gourmet Provisioners,Nancy,Davolio
+23785,Trail's Head Gourmet Provisioners,Robert,King
+23969,Trail's Head Gourmet Provisioners,Laura,Callahan
+24232,Trail's Head Gourmet Provisioners,Janet,Leverling
+25561,Trail's Head Gourmet Provisioners,Anne,Dodsworth
+25568,Trail's Head Gourmet Provisioners,Laura,Callahan
+11479,Vaffeljernet,Andrew,Fuller
+13371,Vaffeljernet,Laura,Callahan
+14196,Vaffeljernet,Anne,Dodsworth
+15027,Vaffeljernet,Margaret,Peacock
+16771,Vaffeljernet,Margaret,Peacock
+17218,Vaffeljernet,Janet,Leverling
+17286,Vaffeljernet,Anne,Dodsworth
+17597,Vaffeljernet,Michael,Suyama
+18047,Vaffeljernet,Margaret,Peacock
+18273,Vaffeljernet,Michael,Suyama
+19824,Vaffeljernet,Laura,Callahan
+19952,Vaffeljernet,Nancy,Davolio
+20314,Vaffeljernet,Robert,King
+20563,Vaffeljernet,Robert,King
+22122,Vaffeljernet,Michael,Suyama
+22145,Vaffeljernet,Michael,Suyama
+22330,Vaffeljernet,Nancy,Davolio
+24012,Vaffeljernet,Anne,Dodsworth
+25342,Vaffeljernet,Michael,Suyama
+26018,Vaffeljernet,Janet,Leverling
+26380,Vaffeljernet,Robert,King
+26400,Vaffeljernet,Janet,Leverling
+12283,Victuailles en stock,Laura,Callahan
+13309,Victuailles en stock,Andrew,Fuller
+13684,Victuailles en stock,Robert,King
+13829,Victuailles en stock,Steven,Buchanan
+13965,Victuailles en stock,Anne,Dodsworth
+13977,Victuailles en stock,Michael,Suyama
+15107,Victuailles en stock,Steven,Buchanan
+15168,Victuailles en stock,Anne,Dodsworth
+15431,Victuailles en stock,Laura,Callahan
+15644,Victuailles en stock,Margaret,Peacock
+16164,Victuailles en stock,Andrew,Fuller
+16239,Victuailles en stock,Nancy,Davolio
+16316,Victuailles en stock,Margaret,Peacock
+17276,Victuailles en stock,Nancy,Davolio
+17940,Victuailles en stock,Anne,Dodsworth
+17995,Victuailles en stock,Margaret,Peacock
+18191,Victuailles en stock,Anne,Dodsworth
+18551,Victuailles en stock,Laura,Callahan
+20275,Victuailles en stock,Robert,King
+23477,Victuailles en stock,Robert,King
+24155,Victuailles en stock,Nancy,Davolio
+26465,Victuailles en stock,Margaret,Peacock
+13310,Vins et alcools Chevalier,Steven,Buchanan
+14399,Vins et alcools Chevalier,Nancy,Davolio
+14525,Vins et alcools Chevalier,Margaret,Peacock
+15989,Vins et alcools Chevalier,Steven,Buchanan
+16471,Vins et alcools Chevalier,Anne,Dodsworth
+16508,Vins et alcools Chevalier,Andrew,Fuller
+17731,Vins et alcools Chevalier,Margaret,Peacock
+18121,Vins et alcools Chevalier,Laura,Callahan
+18350,Vins et alcools Chevalier,Laura,Callahan
+18736,Vins et alcools Chevalier,Michael,Suyama
+20613,Vins et alcools Chevalier,Laura,Callahan
+21010,Vins et alcools Chevalier,Steven,Buchanan
+21815,Vins et alcools Chevalier,Margaret,Peacock
+24628,Vins et alcools Chevalier,Margaret,Peacock
+24766,Vins et alcools Chevalier,Laura,Callahan
+25551,Vins et alcools Chevalier,Nancy,Davolio
+25575,Vins et alcools Chevalier,Laura,Callahan
+25581,Vins et alcools Chevalier,Anne,Dodsworth
+26142,Vins et alcools Chevalier,Steven,Buchanan
+11457,Wartian Herkku,Margaret,Peacock
+14404,Wartian Herkku,Andrew,Fuller
+18265,Wartian Herkku,Laura,Callahan
+19647,Wartian Herkku,Robert,King
+22499,Wartian Herkku,Nancy,Davolio
+22569,Wartian Herkku,Margaret,Peacock
+24179,Wartian Herkku,Andrew,Fuller
+25268,Wartian Herkku,Robert,King
+11282,Wellington Importadora,Michael,Suyama
+12637,Wellington Importadora,Robert,King
+13112,Wellington Importadora,Janet,Leverling
+14124,Wellington Importadora,Anne,Dodsworth
+15509,Wellington Importadora,Michael,Suyama
+16261,Wellington Importadora,Michael,Suyama
+16689,Wellington Importadora,Anne,Dodsworth
+17721,Wellington Importadora,Robert,King
+18217,Wellington Importadora,Michael,Suyama
+18870,Wellington Importadora,Nancy,Davolio
+20509,Wellington Importadora,Laura,Callahan
+20849,Wellington Importadora,Anne,Dodsworth
+22372,Wellington Importadora,Laura,Callahan
+23862,Wellington Importadora,Janet,Leverling
+25526,Wellington Importadora,Michael,Suyama
+25755,Wellington Importadora,Anne,Dodsworth
+11298,White Clover Markets,Anne,Dodsworth
+11631,White Clover Markets,Laura,Callahan
+12785,White Clover Markets,Michael,Suyama
+13005,White Clover Markets,Laura,Callahan
+13143,White Clover Markets,Janet,Leverling
+13631,White Clover Markets,Nancy,Davolio
+13730,White Clover Markets,Michael,Suyama
+15002,White Clover Markets,Janet,Leverling
+15045,White Clover Markets,Margaret,Peacock
+15245,White Clover Markets,Margaret,Peacock
+16599,White Clover Markets,Robert,King
+17527,White Clover Markets,Robert,King
+18049,White Clover Markets,Steven,Buchanan
+19140,White Clover Markets,Michael,Suyama
+19143,White Clover Markets,Robert,King
+20119,White Clover Markets,Robert,King
+20705,White Clover Markets,Anne,Dodsworth
+21784,White Clover Markets,Robert,King
+22796,White Clover Markets,Laura,Callahan
+23428,White Clover Markets,Michael,Suyama
+23708,White Clover Markets,Laura,Callahan
+23987,White Clover Markets,Nancy,Davolio
+24942,White Clover Markets,Nancy,Davolio
+25947,White Clover Markets,Steven,Buchanan
+11998,Wilman Kala,Robert,King
+12060,Wilman Kala,Anne,Dodsworth
+14107,Wilman Kala,Janet,Leverling
+14123,Wilman Kala,Margaret,Peacock
+14480,Wilman Kala,Margaret,Peacock
+15810,Wilman Kala,Janet,Leverling
+16828,Wilman Kala,Janet,Leverling
+17483,Wilman Kala,Janet,Leverling
+17531,Wilman Kala,Steven,Buchanan
+19419,Wilman Kala,Janet,Leverling
+21338,Wilman Kala,Robert,King
+21835,Wilman Kala,Michael,Suyama
+22736,Wilman Kala,Robert,King
+22905,Wilman Kala,Steven,Buchanan
+24573,Wilman Kala,Michael,Suyama
+24626,Wilman Kala,Nancy,Davolio
+25189,Wilman Kala,Janet,Leverling
+25489,Wilman Kala,Robert,King
+25620,Wilman Kala,Anne,Dodsworth
+26150,Wilman Kala,Anne,Dodsworth
+26203,Wilman Kala,Andrew,Fuller
+11374,Wolski  Zajazd,Anne,Dodsworth
+13151,Wolski  Zajazd,Andrew,Fuller
+15649,Wolski  Zajazd,Margaret,Peacock
+16884,Wolski  Zajazd,Steven,Buchanan
+17332,Wolski  Zajazd,Robert,King
+17339,Wolski  Zajazd,Margaret,Peacock
+17348,Wolski  Zajazd,Nancy,Davolio
+17690,Wolski  Zajazd,Michael,Suyama
+18557,Wolski  Zajazd,Margaret,Peacock
+18941,Wolski  Zajazd,Nancy,Davolio
+19517,Wolski  Zajazd,Margaret,Peacock
+20182,Wolski  Zajazd,Nancy,Davolio
+20755,Wolski  Zajazd,Anne,Dodsworth
+23018,Wolski  Zajazd,Janet,Leverling
+24739,Wolski  Zajazd,Nancy,Davolio
+25866,Wolski  Zajazd,Laura,Callahan
+26307,Wolski  Zajazd,Nancy,Davolio
+26366,Wolski  Zajazd,Margaret,Peacock
